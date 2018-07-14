@@ -3,20 +3,19 @@
 #experiment  = Experiment(api_key="JlDk1CHg96OApu8v22ihYBVqC",
 #						 project_name="Masters Thesis")
 
-from scipy.signal import butter, lfilter, filtfilt
+from scipy.signal import butter, lfilter, filtfilt, sosfilt, sosfreqz
 import matplotlib.pyplot as plt
 
 def butter_bandpass(lowcut, highcut, fs, order=5):
 	nyq = 0.5 * fs
 	low = lowcut / nyq
 	high = highcut / nyq
-	b, a = butter(order, [low, high], btype='band')
-	return b, a
-
+	sos = butter(order, [low, high], analog=False, btype='band', output='sos')
+	return sos
 
 def butter_bandpass_filter(data, lowcut, highcut, fs, order=5):
-	b, a = butter_bandpass(lowcut, highcut, fs, order=order)
-	y = lfilter(b, a, data)
+	sos = butter_bandpass(lowcut, highcut, fs, order=order)
+	y = sosfilt(sos, data)
 	return y
 
 def butter_highpass(cutoff, fs, order=5):
@@ -78,8 +77,8 @@ def process_IMU(df_myo):
 	hand = df_myo[' Arm'].iloc[0]
 	# 4th Butterworth band-pass filter for Accelerometer and Gyroscope data
 	# Cutoff frequencies in Hz
-	highcut = 0.2
-	lowcut = 15
+	highcut = 15
+	lowcut = 0.2
 	# Sample rate (as collected by the MYO) in Hz
 	samplerate_butterworth = 200
 	

@@ -13,7 +13,7 @@ try:
 except:
 	df_merged = pd.DataFrame()
 
-	participants = ['5187','7073','4501','1571','2334','5557','2636','2170','4623']
+	participants = ['2253','5187','7073','4501','1571','2334','5557','2636','2170','4623']
 
 	for participant in participants:
 		for day in ['1','2','3']:
@@ -45,12 +45,12 @@ except:
 
 			df_l = mf.calculate_IMU_features(df_l)
 			df_r = mf.calculate_IMU_features(df_r)
+			
+			df_l = df_l.iloc[::200, :]
+			df_r = df_r.iloc[::200, :]
 
 			df_l = df_l.dropna()
 			df_r = df_r.dropna()
-
-			df_l = df_l[::200]
-			df_r = df_r[::200]
 
 			columns = ['Device ID', ' Warm?', ' Sync', 	' Orientation_W', ' Orientation_X', ' Orientation_Y', ' Orientation_Z', ' Acc_X', ' Acc_Y', ' Acc_Z', ' Gyro_X', ' Gyro_Y', ' Gyro_Z', ' Pose', ' EMG_1', ' EMG_2', ' EMG_3', ' EMG_4', ' EMG_5', ' EMG_6', ' EMG_7', ' EMG_8', 'Locked', ' RSSI', ' Roll', ' Pitch', ' Yaw ']
 			
@@ -66,16 +66,16 @@ except:
 			df_l[' Timestamp'] = df_l[' Timestamp'].dt.round('1s')
 			df_r[' Timestamp'] = df_r[' Timestamp'].dt.round('1s')
 			
-			df = df_l.merge(df_r, on=[' Timestamp', 'label'], how='inner')
+			df = df_l.merge(df_r, on=[' Timestamp', 'label', 'day', 'participant'], how='inner')
 			
 			df_merged = df_merged.append(df)
 	df_merged.to_pickle("data.pkl")
 	df_merged.to_csv("data.csv")
 
 score_dt = ml.ten_fold_decision_tree(df_merged, train_columns)
-#score_svm = ml.ten_fold_svm(df_merged, train_columns)
+score_svm = ml.ten_fold_svm(df_merged, train_columns)
 score_knn = ml.ten_fold_knn(df_merged, train_columns)
 
 print(score_dt, file=open("output.txt", "a"))
-#print(score_svm, file=open("output.txt", "a"))
+print(score_svm, file=open("output.txt", "a"))
 print(score_knn, file=open("output.txt", "a"))

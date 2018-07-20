@@ -12,10 +12,6 @@ def sma(df_myo):
 #	print(df_myo)
 
 def calculate_EMG_features(df_myo):
-	df_myo['helper1'] = df_myo['label'].shift(1)
-	df_myo['helper2'] = df_myo['label'] != df_myo['helper1']
-	df_myo['group'] = df_myo['helper2'].cumsum()
-	
 	hand = df_myo[' Arm'].iloc[0]
 	df_myo['EMG_1_mean_' + hand] = df_myo.groupby(df_myo['group'])['Cutoff_EMG_1_' + hand].rolling('2s').mean().reset_index(0,drop=True)
 	df_myo['EMG_2_mean_' + hand] = df_myo.groupby(df_myo['group'])['Cutoff_EMG_2_' + hand].rolling('2s').mean().reset_index(0,drop=True)
@@ -33,17 +29,10 @@ def calculate_EMG_features(df_myo):
 	# Signal Magnitude Area
 	df_myo['EMG_sma_' + hand] = df_myo['Cutoff_EMG_1_' + hand] + df_myo['Cutoff_EMG_2_' + hand] + df_myo['Cutoff_EMG_3_' + hand] + df_myo['Cutoff_EMG_4_' + hand] + df_myo['Cutoff_EMG_5_' + hand] + df_myo['Cutoff_EMG_6_' + hand] + df_myo['Cutoff_EMG_7_' + hand] + df_myo['Cutoff_EMG_8_' + hand]
 	df_myo['EMG_sma_' + hand] = df_myo.groupby(df_myo['group'])['EMG_sma_' + hand].rolling('2s').sum().reset_index(0,drop=True)
-	
-	del df_myo['helper1']
-	del df_myo['helper2']
-	del df_myo['group']
 
 	return df_myo
 
 def calculate_IMU_features(df_myo):
-	df_myo['helper1'] = df_myo['label'].shift(1)
-	df_myo['helper2'] = df_myo['label'] != df_myo['helper1']
-	df_myo['group'] = df_myo['helper2'].cumsum()
 	
 	hand = df_myo[' Arm'].iloc[0]
 	# Mean
@@ -70,10 +59,6 @@ def calculate_IMU_features(df_myo):
 	
 	df_myo['Orientation_sma_' + hand] = df_myo['Smoothed_Orientation_X_' + hand] + df_myo['Smoothed_Orientation_Y_' + hand] + df_myo['Smoothed_Orientation_Z_' + hand]
 	df_myo['Orientation_sma_' + hand] = df_myo.groupby(df_myo['group'])['Orientation_sma_' + hand].rolling('2s').sum().reset_index(0,drop=True)
-
-	del df_myo['helper1']
-	del df_myo['helper2']
-	del df_myo['group']
 
 	return df_myo
 

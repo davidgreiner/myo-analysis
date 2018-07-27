@@ -9,12 +9,14 @@ import matplotlib.pyplot as plt
 
 train_columns = ['EMG_1_mean_left','EMG_2_mean_left','EMG_3_mean_left','EMG_4_mean_left','EMG_5_mean_left','EMG_6_mean_left','EMG_7_mean_left','EMG_8_mean_left','EMG_rms_left','EMG_sma_left','Acc_X_mean_left','Acc_Y_mean_left','Acc_Z_mean_left','Orientation_X_mean_left','Orientation_Y_mean_left','Orientation_Z_mean_left','Acc_X_std_left','Acc_Y_std_left','Acc_Z_std_left','Orientation_X_std_left','Orientation_Y_std_left','Orientation_Z_std_left','Acc_sma_left','Orientation_sma_left','EMG_1_mean_right','EMG_2_mean_right','EMG_3_mean_right','EMG_4_mean_right','EMG_5_mean_right','EMG_6_mean_right','EMG_7_mean_right','EMG_8_mean_right','EMG_rms_right','EMG_sma_right','Acc_X_mean_right','Acc_Y_mean_right','Acc_Z_mean_right','Orientation_X_mean_right','Orientation_Y_mean_right','Orientation_Z_mean_right','Acc_X_std_right','Acc_Y_std_right','Acc_Z_std_right','Orientation_X_std_right','Orientation_Y_std_right','Orientation_Z_std_right','Acc_sma_right','Orientation_sma_right']
 
+participants = ['2253','5187','7073','4501','1571','2334','5557','2636','2170','4623']
+
+window_size = '4s'
+
 try:
-	df_merged = pd.read_pickle("data.pkl")
+	df_merged = pd.read_pickle("data_" + window_size + ".pkl")
 except:
 	df_merged = pd.DataFrame()
-
-	participants = ['2253','5187','7073','4501','1571','2334','5557','2636','2170','4623']
 
 	for participant in participants:
 		for day in ['1','2','3']:
@@ -53,11 +55,14 @@ except:
 			del df_r['helper1']
 			del df_r['helper2']
 
-			df_l = mf.calculate_EMG_features(df_l)
-			df_r = mf.calculate_EMG_features(df_r)
+			df_l = mf.calculate_EMG_features(df_l, window_size)
+			df_r = mf.calculate_EMG_features(df_r, window_size)
 
-			df_l = mf.calculate_IMU_features(df_l)
-			df_r = mf.calculate_IMU_features(df_r)
+			df_l = mf.calculate_IMU_features(df_l, window_size)
+			df_r = mf.calculate_IMU_features(df_r, window_size)
+			
+			#if day == '3':
+			#	mf.calculate_average_time(df_l)
 			
 			df_l = df_l.iloc[::200, :]
 			df_r = df_r.iloc[::200, :]
@@ -82,8 +87,8 @@ except:
 			df = df_l.merge(df_r, on=[' Timestamp', 'label', 'day', 'participant','group'], how='inner')
 			
 			df_merged = df_merged.append(df)
-	df_merged.to_pickle("data.pkl")
-	df_merged.to_csv("data.csv")
+	df_merged.to_pickle("data_" + window_size + ".pkl")
+	df_merged.to_csv("data_" + window_size + ".csv")
 
 df_merged = df_merged.loc[df_merged['day'] == "3"]
 df_hmm = df_merged
@@ -94,6 +99,34 @@ np.set_printoptions(threshold=100)
 labels = df_merged.label.unique()
 
 print(labels)
+
+for participant in participants:
+	df_merged_p = df_merged.loc[df_merged['participant'] == participant]
+	#ml.hmm(df_merged, train_columns, labels)
+
+	score_dt = ml.ten_fold_decision_tree(df_merged_p, train_columns, labels)
+	#print(score_dt, file=open("output.txt", "a"))
+	df_cm = pd.DataFrame(score_dt, index = labels, columns = labels)
+	plt.figure(figsize = (10,7))
+	sn.heatmap(df_cm, annot=True, fmt="d")
+	plt.savefig("decision_tree_" + str(participant) + ".pdf", dpi=150)
+
+	plt.clf()
+
+	for kNN in range(1,6):
+		score_knn = ml.ten_fold_knn(df_merged_p, train_columns, kNN, labels)
+		#print(score_knn, file=open("output.txt", "a"))
+		df_cm = pd.DataFrame(score_knn, index = labels, columns = labels)
+		sn.heatmap(df_cm, annot=True, fmt="d")
+		plt.savefig("knn" + str(kNN) + "_" + str(participant) + ".pdf", dpi=150)
+		
+		plt.clf()
+
+	score_svm = ml.ten_fold_svm(df_merged_p, train_columns, labels)
+	#print(score_svm, file=open("output.txt", "a"))
+	df_cm = pd.DataFrame(score_svm, index = labels, columns = labels)
+	sn.heatmap(df_cm, annot=True, fmt="d")
+	plt.savefig("svm.pdf", dpi=150)
 
 ml.hmm(df_merged, train_columns, labels)
 

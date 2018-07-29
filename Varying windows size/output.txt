@@ -1,0 +1,2574 @@
+2s
+2253
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.33      0.30      0.31       142
+          w       0.47      0.43      0.45       230
+          b       0.13      0.15      0.14        27
+          o       0.13      0.14      0.13        50
+        cpr       0.40      0.44      0.42       188
+
+avg / total       0.37      0.37      0.37       637
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.29      0.30      0.30       142
+          w       0.44      0.39      0.41       230
+          b       0.13      0.15      0.14        27
+          o       0.09      0.10      0.10        50
+        cpr       0.39      0.43      0.41       188
+
+avg / total       0.35      0.35      0.35       637
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.27      0.48      0.34       142
+          w       0.44      0.49      0.46       230
+          b       0.09      0.07      0.08        27
+          o       0.09      0.08      0.08        50
+        cpr       0.38      0.12      0.18       188
+
+avg / total       0.34      0.33      0.31       637
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.27      0.45      0.34       142
+          w       0.42      0.43      0.43       230
+          b       0.30      0.11      0.16        27
+          o       0.10      0.02      0.03        50
+        cpr       0.31      0.23      0.27       188
+
+avg / total       0.32      0.33      0.32       637
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.26      0.34      0.30       142
+          w       0.42      0.49      0.45       230
+          b       0.14      0.04      0.06        27
+          o       0.17      0.06      0.09        50
+        cpr       0.28      0.24      0.26       188
+
+avg / total       0.31      0.33      0.32       637
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.26      0.31      0.28       142
+          w       0.42      0.53      0.47       230
+          b       0.00      0.00      0.00        27
+          o       0.12      0.06      0.08        50
+        cpr       0.29      0.22      0.25       188
+
+avg / total       0.31      0.33      0.31       637
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.25      0.01      0.03       142
+          w       0.37      0.96      0.54       230
+          b       0.00      0.00      0.00        27
+          o       0.00      0.00      0.00        50
+        cpr       0.57      0.11      0.19       188
+
+avg / total       0.36      0.38      0.26       637
+
+5187
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.74      0.76      0.75       181
+          w       0.79      0.81      0.80       291
+          b       0.41      0.42      0.42        40
+          o       0.40      0.38      0.39        61
+        cpr       0.76      0.72      0.74       166
+
+avg / total       0.72      0.72      0.72       739
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.38      0.53      0.45       181
+          w       0.48      0.42      0.45       291
+          b       0.23      0.20      0.21        40
+          o       0.12      0.08      0.10        61
+        cpr       0.30      0.28      0.29       166
+
+avg / total       0.37      0.37      0.37       739
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.33      0.67      0.44       181
+          w       0.41      0.41      0.41       291
+          b       0.36      0.23      0.28        40
+          o       0.17      0.07      0.09        61
+        cpr       0.21      0.04      0.06       166
+
+avg / total       0.32      0.35      0.30       739
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.31      0.59      0.40       181
+          w       0.41      0.42      0.41       291
+          b       0.40      0.15      0.22        40
+          o       0.12      0.02      0.03        61
+        cpr       0.26      0.11      0.16       166
+
+avg / total       0.33      0.34      0.31       739
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.32      0.58      0.41       181
+          w       0.42      0.42      0.42       291
+          b       0.41      0.17      0.25        40
+          o       0.07      0.02      0.03        61
+        cpr       0.27      0.15      0.19       166
+
+avg / total       0.33      0.35      0.33       739
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.34      0.57      0.43       181
+          w       0.46      0.51      0.48       291
+          b       0.40      0.15      0.22        40
+          o       0.12      0.03      0.05        61
+        cpr       0.28      0.13      0.18       166
+
+avg / total       0.36      0.38      0.35       739
+
+SVM
+             precision    recall  f1-score   support
+
+          t       1.00      0.07      0.12       181
+          w       0.40      1.00      0.57       291
+          b       0.00      0.00      0.00        40
+          o       0.00      0.00      0.00        61
+        cpr       0.00      0.00      0.00       166
+
+avg / total       0.40      0.41      0.26       739
+
+7073
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.73      0.72      0.72       135
+          w       0.77      0.84      0.80       196
+          b       0.53      0.52      0.53        46
+          o       0.55      0.48      0.51        54
+        cpr       0.76      0.71      0.73       139
+
+avg / total       0.72      0.72      0.72       570
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.36      0.57      0.45       135
+          w       0.45      0.40      0.42       196
+          b       0.19      0.15      0.17        46
+          o       0.14      0.09      0.11        54
+        cpr       0.28      0.22      0.25       139
+
+avg / total       0.34      0.35      0.33       570
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.32      0.75      0.44       135
+          w       0.43      0.41      0.42       196
+          b       0.09      0.04      0.06        46
+          o       0.07      0.02      0.03        54
+        cpr       0.24      0.04      0.07       139
+
+avg / total       0.29      0.33      0.27       570
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.31      0.70      0.43       135
+          w       0.38      0.34      0.36       196
+          b       0.12      0.02      0.04        46
+          o       0.40      0.07      0.12        54
+        cpr       0.34      0.16      0.22       139
+
+avg / total       0.33      0.33      0.29       570
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.31      0.67      0.42       135
+          w       0.41      0.38      0.39       196
+          b       0.20      0.04      0.07        46
+          o       0.23      0.06      0.09        54
+        cpr       0.36      0.18      0.24       139
+
+avg / total       0.34      0.34      0.31       570
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.30      0.69      0.42       135
+          w       0.35      0.34      0.35       196
+          b       0.10      0.02      0.04        46
+          o       0.18      0.04      0.06        54
+        cpr       0.41      0.14      0.21       139
+
+avg / total       0.32      0.32      0.28       570
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.00      0.00      0.00       135
+          w       0.34      1.00      0.51       196
+          b       0.00      0.00      0.00        46
+          o       0.00      0.00      0.00        54
+        cpr       0.00      0.00      0.00       139
+
+avg / total       0.12      0.34      0.18       570
+
+4501
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.71      0.76      0.74       185
+          w       0.82      0.82      0.82       290
+          b       0.28      0.27      0.27        49
+          o       0.64      0.50      0.56        68
+        cpr       0.69      0.70      0.70       199
+
+avg / total       0.71      0.72      0.71       791
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.42      0.51      0.46       185
+          w       0.48      0.50      0.49       290
+          b       0.17      0.20      0.18        49
+          o       0.31      0.16      0.21        68
+        cpr       0.45      0.38      0.41       199
+
+avg / total       0.42      0.42      0.42       791
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.36      0.72      0.48       185
+          w       0.45      0.47      0.46       290
+          b       0.15      0.14      0.15        49
+          o       0.50      0.15      0.23        68
+        cpr       0.54      0.16      0.25       199
+
+avg / total       0.44      0.40      0.37       791
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.34      0.58      0.43       185
+          w       0.47      0.53      0.50       290
+          b       0.10      0.04      0.06        49
+          o       0.33      0.04      0.08        68
+        cpr       0.50      0.31      0.38       199
+
+avg / total       0.41      0.41      0.39       791
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.37      0.64      0.47       185
+          w       0.44      0.46      0.45       290
+          b       0.16      0.06      0.09        49
+          o       0.23      0.04      0.07        68
+        cpr       0.47      0.32      0.38       199
+
+avg / total       0.40      0.41      0.38       791
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.38      0.62      0.47       185
+          w       0.45      0.51      0.48       290
+          b       0.12      0.04      0.06        49
+          o       0.21      0.04      0.07        68
+        cpr       0.46      0.29      0.35       199
+
+avg / total       0.39      0.41      0.38       791
+
+SVM
+             precision    recall  f1-score   support
+
+          t       1.00      0.06      0.12       185
+          w       0.37      1.00      0.54       290
+          b       0.00      0.00      0.00        49
+          o       0.00      0.00      0.00        68
+        cpr       0.00      0.00      0.00       199
+
+avg / total       0.37      0.38      0.23       791
+
+1571
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.70      0.70      0.70       223
+          w       0.79      0.78      0.78       306
+          b       0.22      0.24      0.23        55
+          o       0.47      0.47      0.47        58
+        cpr       0.79      0.79      0.79       205
+
+avg / total       0.71      0.70      0.70       847
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.40      0.52      0.45       223
+          w       0.53      0.51      0.52       306
+          b       0.12      0.09      0.10        55
+          o       0.15      0.12      0.13        58
+        cpr       0.55      0.46      0.50       205
+
+avg / total       0.45      0.45      0.44       847
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.34      0.69      0.46       223
+          w       0.45      0.42      0.43       306
+          b       0.15      0.05      0.08        55
+          o       0.07      0.02      0.03        58
+        cpr       0.70      0.28      0.40       205
+
+avg / total       0.44      0.40      0.38       847
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.35      0.63      0.45       223
+          w       0.47      0.46      0.46       306
+          b       0.08      0.02      0.03        55
+          o       0.12      0.02      0.03        58
+        cpr       0.63      0.37      0.47       205
+
+avg / total       0.43      0.42      0.40       847
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.36      0.64      0.46       223
+          w       0.44      0.43      0.43       306
+          b       0.09      0.02      0.03        55
+          o       0.09      0.02      0.03        58
+        cpr       0.58      0.37      0.45       205
+
+avg / total       0.41      0.41      0.39       847
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.36      0.62      0.45       223
+          w       0.44      0.47      0.46       306
+          b       0.00      0.00      0.00        55
+          o       0.07      0.02      0.03        58
+        cpr       0.59      0.33      0.42       205
+
+avg / total       0.40      0.41      0.39       847
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.88      0.03      0.06       223
+          w       0.36      1.00      0.53       306
+          b       0.00      0.00      0.00        55
+          o       0.00      0.00      0.00        58
+        cpr       0.00      0.00      0.00       205
+
+avg / total       0.36      0.37      0.21       847
+
+2334
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.69      0.66      0.68       164
+          w       0.78      0.79      0.79       289
+          b       0.16      0.12      0.14        42
+          o       0.34      0.40      0.37        52
+        cpr       0.59      0.61      0.60       195
+
+avg / total       0.65      0.65      0.65       742
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.35      0.40      0.37       164
+          w       0.50      0.61      0.55       289
+          b       0.15      0.10      0.12        42
+          o       0.11      0.08      0.09        52
+        cpr       0.42      0.31      0.36       195
+
+avg / total       0.40      0.42      0.40       742
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.30      0.60      0.40       164
+          w       0.46      0.54      0.50       289
+          b       0.08      0.05      0.06        42
+          o       0.26      0.10      0.14        52
+        cpr       0.53      0.09      0.16       195
+
+avg / total       0.41      0.37      0.34       742
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.29      0.49      0.37       164
+          w       0.48      0.60      0.53       289
+          b       0.10      0.02      0.04        42
+          o       0.00      0.00      0.00        52
+        cpr       0.37      0.17      0.23       195
+
+avg / total       0.35      0.39      0.35       742
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.29      0.50      0.37       164
+          w       0.48      0.58      0.53       289
+          b       0.33      0.02      0.04        42
+          o       0.00      0.00      0.00        52
+        cpr       0.38      0.19      0.26       195
+
+avg / total       0.37      0.39      0.36       742
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.30      0.45      0.36       164
+          w       0.46      0.63      0.53       289
+          b       0.00      0.00      0.00        42
+          o       0.10      0.02      0.03        52
+        cpr       0.36      0.16      0.23       195
+
+avg / total       0.35      0.39      0.35       742
+
+SVM
+             precision    recall  f1-score   support
+
+          t       1.00      0.02      0.05       164
+          w       0.39      1.00      0.56       289
+          b       0.00      0.00      0.00        42
+          o       0.00      0.00      0.00        52
+        cpr       0.00      0.00      0.00       195
+
+avg / total       0.37      0.39      0.23       742
+
+5557
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.57      0.63      0.60       216
+          w       0.87      0.87      0.87       317
+          b       0.30      0.31      0.30        68
+          o       0.42      0.38      0.40        91
+        cpr       0.86      0.82      0.84       309
+
+avg / total       0.72      0.72      0.72      1001
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.35      0.44      0.39       216
+          w       0.55      0.55      0.55       317
+          b       0.10      0.07      0.09        68
+          o       0.25      0.20      0.22        91
+        cpr       0.61      0.58      0.60       309
+
+avg / total       0.47      0.47      0.47      1001
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.30      0.60      0.40       216
+          w       0.47      0.46      0.46       317
+          b       0.12      0.09      0.10        68
+          o       0.10      0.05      0.07        91
+        cpr       0.74      0.39      0.52       309
+
+avg / total       0.46      0.41      0.41      1001
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.30      0.53      0.38       216
+          w       0.54      0.54      0.54       317
+          b       0.09      0.04      0.06        68
+          o       0.22      0.05      0.09        91
+        cpr       0.67      0.54      0.60       309
+
+avg / total       0.47      0.46      0.45      1001
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.34      0.56      0.42       216
+          w       0.54      0.52      0.53       317
+          b       0.11      0.06      0.08        68
+          o       0.19      0.08      0.11        91
+        cpr       0.67      0.57      0.61       309
+
+avg / total       0.47      0.47      0.46      1001
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.34      0.53      0.41       216
+          w       0.52      0.55      0.53       317
+          b       0.12      0.06      0.08        68
+          o       0.17      0.08      0.11        91
+        cpr       0.67      0.55      0.60       309
+
+avg / total       0.47      0.47      0.46      1001
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.93      0.06      0.11       216
+          w       0.71      0.31      0.43       317
+          b       0.00      0.00      0.00        68
+          o       0.00      0.00      0.00        91
+        cpr       0.36      0.99      0.53       309
+
+avg / total       0.54      0.42      0.33      1001
+
+2636
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.72      0.73      0.72       183
+          w       0.82      0.82      0.82       279
+          b       0.17      0.17      0.17        42
+          o       0.61      0.65      0.63        65
+        cpr       0.70      0.69      0.69       166
+
+avg / total       0.71      0.71      0.71       735
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.30      0.38      0.34       183
+          w       0.42      0.47      0.44       279
+          b       0.16      0.14      0.15        42
+          o       0.21      0.12      0.16        65
+        cpr       0.36      0.25      0.29       166
+
+avg / total       0.34      0.35      0.34       735
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.29      0.60      0.39       183
+          w       0.39      0.41      0.40       279
+          b       0.14      0.10      0.11        42
+          o       0.32      0.09      0.14        65
+        cpr       0.40      0.07      0.12       166
+
+avg / total       0.35      0.33      0.30       735
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.28      0.53      0.37       183
+          w       0.39      0.42      0.40       279
+          b       0.27      0.10      0.14        42
+          o       0.50      0.06      0.11        65
+        cpr       0.35      0.14      0.20       166
+
+avg / total       0.36      0.33      0.31       735
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.29      0.50      0.37       183
+          w       0.37      0.43      0.40       279
+          b       0.31      0.10      0.15        42
+          o       0.47      0.11      0.18        65
+        cpr       0.38      0.17      0.23       166
+
+avg / total       0.36      0.34      0.32       735
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.29      0.48      0.36       183
+          w       0.38      0.48      0.43       279
+          b       0.25      0.05      0.08        42
+          o       0.50      0.12      0.20        65
+        cpr       0.32      0.11      0.17       166
+
+avg / total       0.35      0.34      0.31       735
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.67      0.01      0.02       183
+          w       0.38      1.00      0.55       279
+          b       0.00      0.00      0.00        42
+          o       0.00      0.00      0.00        65
+        cpr       0.00      0.00      0.00       166
+
+avg / total       0.31      0.38      0.21       735
+
+2170
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.70      0.72      0.71       176
+          w       0.80      0.80      0.80       296
+          b       0.53      0.57      0.55        54
+          o       0.40      0.38      0.39        56
+        cpr       0.79      0.75      0.77       130
+
+avg / total       0.72      0.72      0.72       712
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.32      0.38      0.35       176
+          w       0.46      0.47      0.46       296
+          b       0.23      0.19      0.21        54
+          o       0.14      0.11      0.12        56
+        cpr       0.36      0.32      0.34       130
+
+avg / total       0.36      0.37      0.37       712
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.28      0.53      0.37       176
+          w       0.47      0.45      0.46       296
+          b       0.33      0.17      0.22        54
+          o       0.14      0.07      0.10        56
+        cpr       0.50      0.15      0.23       130
+
+avg / total       0.39      0.37      0.35       712
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.30      0.47      0.37       176
+          w       0.46      0.54      0.50       296
+          b       0.31      0.09      0.14        54
+          o       0.18      0.04      0.06        56
+        cpr       0.42      0.21      0.28       130
+
+avg / total       0.38      0.39      0.36       712
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.35      0.53      0.42       176
+          w       0.48      0.55      0.51       296
+          b       0.29      0.13      0.18        54
+          o       0.18      0.04      0.06        56
+        cpr       0.45      0.22      0.30       130
+
+avg / total       0.40      0.41      0.39       712
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.33      0.47      0.39       176
+          w       0.46      0.58      0.51       296
+          b       0.36      0.15      0.21        54
+          o       0.23      0.05      0.09        56
+        cpr       0.43      0.18      0.25       130
+
+avg / total       0.40      0.40      0.38       712
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.64      0.04      0.07       176
+          w       0.42      0.99      0.59       296
+          b       0.00      0.00      0.00        54
+          o       0.00      0.00      0.00        56
+        cpr       0.00      0.00      0.00       130
+
+avg / total       0.33      0.42      0.26       712
+
+4623
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.68      0.71      0.69       176
+          w       0.83      0.84      0.83       299
+          b       0.42      0.31      0.36        51
+          o       0.53      0.57      0.55        69
+        cpr       0.71      0.70      0.70       205
+
+avg / total       0.71      0.72      0.71       800
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.34      0.43      0.38       176
+          w       0.47      0.52      0.49       299
+          b       0.27      0.20      0.23        51
+          o       0.21      0.14      0.17        69
+        cpr       0.43      0.33      0.37       205
+
+avg / total       0.39      0.40      0.39       800
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.30      0.63      0.40       176
+          w       0.42      0.42      0.42       299
+          b       0.19      0.12      0.15        51
+          o       0.16      0.10      0.12        69
+        cpr       0.65      0.17      0.26       205
+
+avg / total       0.41      0.35      0.33       800
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.29      0.55      0.38       176
+          w       0.43      0.51      0.46       299
+          b       0.36      0.10      0.15        51
+          o       0.00      0.00      0.00        69
+        cpr       0.56      0.24      0.34       205
+
+avg / total       0.39      0.38      0.35       800
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.30      0.55      0.39       176
+          w       0.44      0.50      0.47       299
+          b       0.41      0.14      0.21        51
+          o       0.00      0.00      0.00        69
+        cpr       0.53      0.27      0.36       205
+
+avg / total       0.39      0.39      0.36       800
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.28      0.46      0.35       176
+          w       0.43      0.57      0.49       299
+          b       0.35      0.12      0.18        51
+          o       0.00      0.00      0.00        69
+        cpr       0.48      0.22      0.31       205
+
+avg / total       0.37      0.38      0.35       800
+
+SVM
+             precision    recall  f1-score   support
+
+          t       1.00      0.01      0.02       176
+          w       0.37      1.00      0.55       299
+          b       0.00      0.00      0.00        51
+          o       0.00      0.00      0.00        69
+        cpr       0.00      0.00      0.00       205
+
+avg / total       0.36      0.38      0.21       800
+
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.63      0.64      0.63      1781
+          w       0.73      0.73      0.73      2793
+          b       0.21      0.21      0.21       474
+          o       0.31      0.30      0.31       624
+        cpr       0.60      0.60      0.60      1902
+
+avg / total       0.61      0.61      0.61      7574
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.37      0.45      0.41      1781
+          w       0.43      0.43      0.43      2793
+          b       0.13      0.11      0.12       474
+          o       0.15      0.11      0.13       624
+        cpr       0.38      0.35      0.37      1902
+
+avg / total       0.36      0.37      0.37      7574
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.33      0.64      0.43      1781
+          w       0.43      0.44      0.43      2793
+          b       0.13      0.10      0.11       474
+          o       0.16      0.08      0.11       624
+        cpr       0.47      0.14      0.21      1902
+
+avg / total       0.37      0.36      0.33      7574
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.33      0.57      0.42      1781
+          w       0.43      0.46      0.44      2793
+          b       0.17      0.06      0.09       474
+          o       0.27      0.05      0.08       624
+        cpr       0.45      0.27      0.34      1902
+
+avg / total       0.38      0.38      0.36      7574
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.34      0.56      0.42      1781
+          w       0.42      0.47      0.44      2793
+          b       0.15      0.05      0.07       474
+          o       0.23      0.05      0.09       624
+        cpr       0.45      0.29      0.36      1902
+
+avg / total       0.38      0.39      0.36      7574
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.34      0.54      0.42      1781
+          w       0.42      0.50      0.45      2793
+          b       0.17      0.06      0.08       474
+          o       0.23      0.06      0.09       624
+        cpr       0.47      0.28      0.35      1902
+
+avg / total       0.38      0.39      0.37      7574
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.75      0.12      0.21      1781
+          w       0.37      0.98      0.54      2793
+          b       0.00      0.00      0.00       474
+          o       0.00      0.00      0.00       624
+        cpr       0.57      0.01      0.01      1902
+
+avg / total       0.46      0.39      0.25      7574
+
+4s
+2253
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.48      0.49      0.48       142
+          w       0.65      0.65      0.65       230
+          b       0.22      0.22      0.22        27
+          o       0.45      0.50      0.48        50
+        cpr       0.62      0.60      0.61       188
+
+avg / total       0.57      0.57      0.57       637
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.31      0.31      0.31       142
+          w       0.44      0.46      0.45       230
+          b       0.19      0.19      0.19        27
+          o       0.07      0.06      0.07        50
+        cpr       0.35      0.35      0.35       188
+
+avg / total       0.35      0.35      0.35       637
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.28      0.44      0.34       142
+          w       0.46      0.57      0.51       230
+          b       0.10      0.07      0.08        27
+          o       0.07      0.04      0.05        50
+        cpr       0.45      0.18      0.25       188
+
+avg / total       0.37      0.36      0.34       637
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.26      0.41      0.32       142
+          w       0.45      0.48      0.47       230
+          b       0.17      0.07      0.10        27
+          o       0.12      0.04      0.06        50
+        cpr       0.43      0.32      0.37       188
+
+avg / total       0.37      0.37      0.36       637
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.29      0.35      0.32       142
+          w       0.44      0.54      0.49       230
+          b       0.00      0.00      0.00        27
+          o       0.07      0.04      0.05        50
+        cpr       0.34      0.27      0.30       188
+
+avg / total       0.33      0.36      0.34       637
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.27      0.34      0.30       142
+          w       0.43      0.58      0.49       230
+          b       0.33      0.04      0.07        27
+          o       0.10      0.04      0.06        50
+        cpr       0.37      0.25      0.30       188
+
+avg / total       0.35      0.36      0.34       637
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.33      0.01      0.03       142
+          w       0.37      0.95      0.53       230
+          b       0.00      0.00      0.00        27
+          o       0.00      0.00      0.00        50
+        cpr       0.32      0.07      0.12       188
+
+avg / total       0.30      0.37      0.23       637
+
+5187
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.77      0.78      0.78       181
+          w       0.83      0.84      0.83       291
+          b       0.64      0.57      0.61        40
+          o       0.54      0.49      0.51        61
+        cpr       0.76      0.78      0.77       166
+
+avg / total       0.76      0.77      0.77       739
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.34      0.45      0.39       181
+          w       0.42      0.41      0.41       291
+          b       0.17      0.15      0.16        40
+          o       0.10      0.08      0.09        61
+        cpr       0.26      0.22      0.24       166
+
+avg / total       0.33      0.33      0.33       739
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.30      0.62      0.41       181
+          w       0.38      0.35      0.36       291
+          b       0.32      0.17      0.23        40
+          o       0.23      0.11      0.15        61
+        cpr       0.27      0.07      0.11       166
+
+avg / total       0.32      0.32      0.29       739
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.30      0.55      0.39       181
+          w       0.42      0.41      0.41       291
+          b       0.40      0.10      0.16        40
+          o       0.08      0.02      0.03        61
+        cpr       0.28      0.16      0.20       166
+
+avg / total       0.33      0.34      0.31       739
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.34      0.56      0.42       181
+          w       0.41      0.43      0.42       291
+          b       0.50      0.15      0.23        40
+          o       0.15      0.05      0.07        61
+        cpr       0.35      0.22      0.27       166
+
+avg / total       0.36      0.37      0.35       739
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.32      0.50      0.39       181
+          w       0.38      0.44      0.41       291
+          b       0.47      0.17      0.25        40
+          o       0.11      0.03      0.05        61
+        cpr       0.27      0.15      0.19       166
+
+avg / total       0.33      0.34      0.32       739
+
+SVM
+             precision    recall  f1-score   support
+
+          t       1.00      0.06      0.11       181
+          w       0.40      1.00      0.57       291
+          b       0.00      0.00      0.00        40
+          o       0.00      0.00      0.00        61
+        cpr       0.00      0.00      0.00       166
+
+avg / total       0.40      0.41      0.25       739
+
+7073
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.83      0.79      0.81       135
+          w       0.84      0.85      0.84       196
+          b       0.64      0.61      0.62        46
+          o       0.54      0.56      0.55        54
+        cpr       0.75      0.79      0.77       139
+
+avg / total       0.77      0.77      0.77       570
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.33      0.49      0.39       135
+          w       0.48      0.41      0.44       196
+          b       0.24      0.15      0.19        46
+          o       0.28      0.17      0.21        54
+        cpr       0.30      0.29      0.30       139
+
+avg / total       0.36      0.36      0.35       570
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.31      0.72      0.43       135
+          w       0.49      0.40      0.44       196
+          b       0.29      0.17      0.22        46
+          o       0.19      0.09      0.12        54
+        cpr       0.38      0.12      0.18       139
+
+avg / total       0.38      0.36      0.33       570
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.30      0.66      0.42       135
+          w       0.50      0.46      0.48       196
+          b       0.40      0.13      0.20        46
+          o       0.50      0.09      0.16        54
+        cpr       0.39      0.20      0.27       139
+
+avg / total       0.42      0.38      0.36       570
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.31      0.63      0.41       135
+          w       0.49      0.44      0.46       196
+          b       0.22      0.09      0.12        46
+          o       0.25      0.06      0.09        54
+        cpr       0.36      0.22      0.27       139
+
+avg / total       0.37      0.37      0.34       570
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.30      0.62      0.40       135
+          w       0.47      0.47      0.47       196
+          b       0.21      0.09      0.12        46
+          o       0.27      0.06      0.09        54
+        cpr       0.32      0.14      0.19       139
+
+avg / total       0.35      0.35      0.32       570
+
+SVM
+             precision    recall  f1-score   support
+
+          t       1.00      0.03      0.06       135
+          w       0.35      1.00      0.51       196
+          b       0.00      0.00      0.00        46
+          o       0.00      0.00      0.00        54
+        cpr       0.00      0.00      0.00       139
+
+avg / total       0.36      0.35      0.19       570
+
+4501
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.81      0.84      0.82       185
+          w       0.90      0.89      0.90       290
+          b       0.50      0.49      0.49        49
+          o       0.62      0.59      0.60        68
+        cpr       0.78      0.78      0.78       199
+
+avg / total       0.80      0.80      0.80       791
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.43      0.55      0.48       185
+          w       0.42      0.43      0.42       290
+          b       0.02      0.02      0.02        49
+          o       0.29      0.18      0.22        68
+        cpr       0.38      0.33      0.35       199
+
+avg / total       0.37      0.38      0.38       791
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.36      0.77      0.49       185
+          w       0.43      0.44      0.44       290
+          b       0.14      0.10      0.12        49
+          o       0.47      0.10      0.17        68
+        cpr       0.44      0.11      0.18       199
+
+avg / total       0.40      0.38      0.34       791
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.36      0.66      0.46       185
+          w       0.42      0.44      0.43       290
+          b       0.18      0.06      0.09        49
+          o       0.45      0.07      0.13        68
+        cpr       0.37      0.21      0.27       199
+
+avg / total       0.38      0.38      0.35       791
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.38      0.66      0.48       185
+          w       0.41      0.46      0.43       290
+          b       0.15      0.04      0.06        49
+          o       0.50      0.12      0.19        68
+        cpr       0.40      0.23      0.29       199
+
+avg / total       0.39      0.39      0.37       791
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.37      0.64      0.47       185
+          w       0.41      0.49      0.45       290
+          b       0.36      0.08      0.13        49
+          o       0.60      0.18      0.27        68
+        cpr       0.46      0.22      0.29       199
+
+avg / total       0.43      0.40      0.38       791
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.87      0.07      0.13       185
+          w       0.37      0.99      0.54       290
+          b       0.00      0.00      0.00        49
+          o       0.00      0.00      0.00        68
+        cpr       0.00      0.00      0.00       199
+
+avg / total       0.34      0.38      0.23       791
+
+1571
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.73      0.83      0.78       223
+          w       0.84      0.79      0.81       306
+          b       0.50      0.44      0.47        55
+          o       0.60      0.60      0.60        58
+        cpr       0.83      0.81      0.82       205
+
+avg / total       0.77      0.77      0.77       847
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.38      0.52      0.44       223
+          w       0.45      0.43      0.44       306
+          b       0.02      0.02      0.02        55
+          o       0.06      0.03      0.04        58
+        cpr       0.37      0.30      0.33       205
+
+avg / total       0.36      0.37      0.36       847
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.36      0.73      0.48       223
+          w       0.44      0.42      0.43       306
+          b       0.03      0.02      0.02        55
+          o       0.07      0.02      0.03        58
+        cpr       0.47      0.16      0.23       205
+
+avg / total       0.38      0.38      0.34       847
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.37      0.71      0.49       223
+          w       0.47      0.41      0.44       306
+          b       0.00      0.00      0.00        55
+          o       0.08      0.02      0.03        58
+        cpr       0.48      0.30      0.37       205
+
+avg / total       0.39      0.41      0.38       847
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.38      0.70      0.49       223
+          w       0.46      0.42      0.44       306
+          b       0.00      0.00      0.00        55
+          o       0.07      0.02      0.03        58
+        cpr       0.45      0.29      0.36       205
+
+avg / total       0.38      0.41      0.38       847
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.36      0.67      0.47       223
+          w       0.44      0.41      0.43       306
+          b       0.08      0.02      0.03        55
+          o       0.14      0.02      0.03        58
+        cpr       0.47      0.28      0.35       205
+
+avg / total       0.38      0.40      0.37       847
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.91      0.14      0.25       223
+          w       0.37      0.99      0.54       306
+          b       0.00      0.00      0.00        55
+          o       0.00      0.00      0.00        58
+        cpr       0.00      0.00      0.00       205
+
+avg / total       0.38      0.40      0.26       847
+
+2334
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.67      0.68      0.67       164
+          w       0.84      0.81      0.82       289
+          b       0.28      0.24      0.26        42
+          o       0.54      0.54      0.54        52
+        cpr       0.62      0.67      0.64       195
+
+avg / total       0.69      0.69      0.69       742
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.41      0.45      0.43       164
+          w       0.46      0.55      0.50       289
+          b       0.21      0.21      0.21        42
+          o       0.14      0.10      0.11        52
+        cpr       0.38      0.28      0.32       195
+
+avg / total       0.39      0.40      0.39       742
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.31      0.59      0.40       164
+          w       0.43      0.52      0.47       289
+          b       0.24      0.12      0.16        42
+          o       0.29      0.12      0.16        52
+        cpr       0.50      0.10      0.17       195
+
+avg / total       0.40      0.37      0.34       742
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.31      0.54      0.40       164
+          w       0.46      0.57      0.51       289
+          b       0.33      0.05      0.08        42
+          o       0.36      0.10      0.15        52
+        cpr       0.39      0.17      0.24       195
+
+avg / total       0.40      0.39      0.36       742
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.35      0.54      0.43       164
+          w       0.44      0.58      0.50       289
+          b       0.33      0.05      0.08        42
+          o       0.33      0.12      0.17        52
+        cpr       0.38      0.17      0.23       195
+
+avg / total       0.39      0.40      0.37       742
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.33      0.49      0.40       164
+          w       0.44      0.61      0.51       289
+          b       0.50      0.10      0.16        42
+          o       0.36      0.08      0.13        52
+        cpr       0.41      0.17      0.24       195
+
+avg / total       0.40      0.40      0.37       742
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.00      0.00      0.00       164
+          w       0.39      1.00      0.56       289
+          b       0.00      0.00      0.00        42
+          o       0.00      0.00      0.00        52
+        cpr       0.00      0.00      0.00       195
+
+avg / total       0.15      0.39      0.22       742
+
+5557
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.70      0.69      0.69       216
+          w       0.90      0.91      0.90       317
+          b       0.50      0.49      0.49        68
+          o       0.50      0.53      0.51        91
+        cpr       0.89      0.88      0.88       309
+
+avg / total       0.79      0.79      0.79      1001
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.41      0.48      0.44       216
+          w       0.52      0.51      0.51       317
+          b       0.14      0.12      0.13        68
+          o       0.17      0.15      0.16        91
+        cpr       0.53      0.51      0.52       309
+
+avg / total       0.44      0.44      0.44      1001
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.31      0.62      0.41       216
+          w       0.48      0.50      0.49       317
+          b       0.12      0.09      0.10        68
+          o       0.14      0.08      0.10        91
+        cpr       0.68      0.28      0.40       309
+
+avg / total       0.45      0.39      0.38      1001
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.31      0.58      0.40       216
+          w       0.48      0.48      0.48       317
+          b       0.20      0.06      0.09        68
+          o       0.05      0.01      0.02        91
+        cpr       0.54      0.43      0.48       309
+
+avg / total       0.40      0.41      0.39      1001
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.34      0.59      0.43       216
+          w       0.48      0.48      0.48       317
+          b       0.20      0.04      0.07        68
+          o       0.18      0.07      0.10        91
+        cpr       0.53      0.45      0.48       309
+
+avg / total       0.42      0.43      0.41      1001
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.35      0.57      0.43       216
+          w       0.48      0.53      0.50       317
+          b       0.21      0.04      0.07        68
+          o       0.18      0.07      0.10        91
+        cpr       0.59      0.47      0.52       309
+
+avg / total       0.44      0.45      0.43      1001
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.92      0.06      0.10       216
+          w       0.65      0.26      0.38       317
+          b       0.00      0.00      0.00        68
+          o       0.00      0.00      0.00        91
+        cpr       0.35      0.97      0.52       309
+
+avg / total       0.51      0.40      0.30      1001
+
+2636
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.84      0.83      0.83       183
+          w       0.90      0.91      0.90       279
+          b       0.38      0.40      0.39        42
+          o       0.71      0.74      0.72        65
+        cpr       0.84      0.81      0.82       166
+
+avg / total       0.82      0.82      0.82       735
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.34      0.41      0.37       183
+          w       0.38      0.42      0.40       279
+          b       0.11      0.10      0.10        42
+          o       0.34      0.20      0.25        65
+        cpr       0.26      0.20      0.23       166
+
+avg / total       0.32      0.33      0.32       735
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.32      0.63      0.43       183
+          w       0.38      0.42      0.40       279
+          b       0.00      0.00      0.00        42
+          o       0.42      0.12      0.19        65
+        cpr       0.26      0.05      0.09       166
+
+avg / total       0.32      0.34      0.29       735
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.29      0.56      0.39       183
+          w       0.37      0.40      0.39       279
+          b       0.00      0.00      0.00        42
+          o       0.56      0.08      0.14        65
+        cpr       0.32      0.14      0.20       166
+
+avg / total       0.34      0.33      0.30       735
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.30      0.51      0.38       183
+          w       0.40      0.44      0.42       279
+          b       0.14      0.02      0.04        42
+          o       0.64      0.11      0.18        65
+        cpr       0.29      0.17      0.21       166
+
+avg / total       0.36      0.34      0.32       735
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.28      0.50      0.36       183
+          w       0.40      0.45      0.42       279
+          b       0.14      0.02      0.04        42
+          o       0.70      0.11      0.19        65
+        cpr       0.27      0.13      0.18       166
+
+avg / total       0.35      0.34      0.31       735
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.88      0.04      0.07       183
+          w       0.38      1.00      0.55       279
+          b       0.00      0.00      0.00        42
+          o       0.00      0.00      0.00        65
+        cpr       0.00      0.00      0.00       166
+
+avg / total       0.36      0.39      0.23       735
+
+2170
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.71      0.73      0.72       176
+          w       0.85      0.85      0.85       296
+          b       0.50      0.50      0.50        54
+          o       0.55      0.55      0.55        56
+        cpr       0.84      0.82      0.83       130
+
+avg / total       0.77      0.76      0.76       712
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.32      0.44      0.37       176
+          w       0.46      0.44      0.45       296
+          b       0.19      0.13      0.16        54
+          o       0.17      0.12      0.14        56
+        cpr       0.36      0.30      0.33       130
+
+avg / total       0.36      0.37      0.36       712
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.30      0.65      0.41       176
+          w       0.40      0.34      0.37       296
+          b       0.22      0.11      0.15        54
+          o       0.07      0.04      0.05        56
+        cpr       0.50      0.09      0.16       130
+
+avg / total       0.35      0.33      0.30       712
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.28      0.46      0.35       176
+          w       0.43      0.48      0.45       296
+          b       0.16      0.06      0.08        54
+          o       0.00      0.00      0.00        56
+        cpr       0.37      0.17      0.23       130
+
+avg / total       0.33      0.35      0.32       712
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.30      0.49      0.37       176
+          w       0.44      0.46      0.45       296
+          b       0.26      0.09      0.14        54
+          o       0.10      0.04      0.05        56
+        cpr       0.34      0.18      0.23       130
+
+avg / total       0.34      0.36      0.33       712
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.30      0.41      0.35       176
+          w       0.44      0.57      0.50       296
+          b       0.30      0.11      0.16        54
+          o       0.19      0.05      0.08        56
+        cpr       0.42      0.18      0.26       130
+
+avg / total       0.37      0.38      0.36       712
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.50      0.01      0.01       176
+          w       0.42      1.00      0.59       296
+          b       0.00      0.00      0.00        54
+          o       0.00      0.00      0.00        56
+        cpr       0.00      0.00      0.00       130
+
+avg / total       0.30      0.42      0.25       712
+
+4623
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.75      0.78      0.76       176
+          w       0.89      0.85      0.87       299
+          b       0.47      0.41      0.44        51
+          o       0.46      0.46      0.46        69
+        cpr       0.76      0.79      0.78       205
+
+avg / total       0.76      0.76      0.76       800
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.29      0.38      0.33       176
+          w       0.42      0.45      0.43       299
+          b       0.08      0.06      0.07        51
+          o       0.05      0.03      0.04        69
+        cpr       0.41      0.34      0.37       205
+
+avg / total       0.33      0.34      0.34       800
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.26      0.57      0.36       176
+          w       0.41      0.44      0.43       299
+          b       0.11      0.04      0.06        51
+          o       0.06      0.01      0.02        69
+        cpr       0.56      0.15      0.24       205
+
+avg / total       0.37      0.33      0.31       800
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.29      0.58      0.39       176
+          w       0.47      0.52      0.50       299
+          b       0.00      0.00      0.00        51
+          o       0.20      0.01      0.03        69
+        cpr       0.48      0.24      0.32       205
+
+avg / total       0.38      0.38      0.35       800
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.29      0.53      0.38       176
+          w       0.43      0.49      0.46       299
+          b       0.00      0.00      0.00        51
+          o       0.10      0.01      0.03        69
+        cpr       0.44      0.25      0.32       205
+
+avg / total       0.35      0.37      0.34       800
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.28      0.51      0.36       176
+          w       0.44      0.55      0.49       299
+          b       0.00      0.00      0.00        51
+          o       0.15      0.03      0.05        69
+        cpr       0.42      0.18      0.25       205
+
+avg / total       0.35      0.36      0.33       800
+
+SVM
+             precision    recall  f1-score   support
+
+          t       1.00      0.02      0.03       176
+          w       0.38      1.00      0.55       299
+          b       0.00      0.00      0.00        51
+          o       0.00      0.00      0.00        69
+        cpr       0.00      0.00      0.00       205
+
+avg / total       0.36      0.38      0.21       800
+
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.67      0.68      0.67      1781
+          w       0.78      0.78      0.78      2793
+          b       0.29      0.28      0.29       474
+          o       0.38      0.39      0.39       624
+        cpr       0.63      0.63      0.63      1902
+
+avg / total       0.65      0.65      0.65      7574
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.35      0.43      0.39      1781
+          w       0.42      0.42      0.42      2793
+          b       0.10      0.09      0.09       474
+          o       0.17      0.14      0.15       624
+        cpr       0.35      0.31      0.33      1902
+
+avg / total       0.35      0.35      0.35      7574
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.31      0.61      0.41      1781
+          w       0.40      0.42      0.41      2793
+          b       0.13      0.08      0.10       474
+          o       0.17      0.08      0.11       624
+        cpr       0.41      0.11      0.17      1902
+
+avg / total       0.35      0.34      0.31      7574
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.31      0.57      0.40      1781
+          w       0.41      0.42      0.41      2793
+          b       0.16      0.05      0.07       474
+          o       0.22      0.04      0.07       624
+        cpr       0.38      0.22      0.28      1902
+
+avg / total       0.35      0.35      0.33      7574
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.33      0.57      0.41      1781
+          w       0.40      0.43      0.42      2793
+          b       0.17      0.04      0.07       474
+          o       0.22      0.07      0.10       624
+        cpr       0.37      0.23      0.28      1902
+
+avg / total       0.35      0.36      0.33      7574
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.33      0.55      0.41      1781
+          w       0.40      0.47      0.43      2793
+          b       0.13      0.04      0.06       474
+          o       0.23      0.07      0.10       624
+        cpr       0.38      0.21      0.27      1902
+
+avg / total       0.35      0.36      0.34      7574
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.71      0.12      0.21      1781
+          w       0.38      0.97      0.54      2793
+          b       0.00      0.00      0.00       474
+          o       0.00      0.00      0.00       624
+        cpr       0.24      0.00      0.01      1902
+
+avg / total       0.37      0.39      0.25      7574
+
+6s
+2253
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.65      0.65      0.65       142
+          w       0.73      0.72      0.72       230
+          b       0.81      0.48      0.60        27
+          o       0.47      0.58      0.52        50
+        cpr       0.69      0.69      0.69       188
+
+avg / total       0.68      0.68      0.68       637
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.24      0.23      0.23       142
+          w       0.45      0.45      0.45       230
+          b       0.29      0.37      0.32        27
+          o       0.21      0.26      0.23        50
+        cpr       0.37      0.35      0.36       188
+
+avg / total       0.35      0.35      0.35       637
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.24      0.38      0.29       142
+          w       0.43      0.55      0.48       230
+          b       0.24      0.22      0.23        27
+          o       0.10      0.08      0.09        50
+        cpr       0.36      0.11      0.16       188
+
+avg / total       0.33      0.33      0.30       637
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.23      0.35      0.28       142
+          w       0.43      0.48      0.45       230
+          b       0.50      0.30      0.37        27
+          o       0.30      0.12      0.17        50
+        cpr       0.38      0.27      0.31       188
+
+avg / total       0.36      0.35      0.35       637
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.30      0.36      0.33       142
+          w       0.43      0.54      0.48       230
+          b       0.67      0.30      0.41        27
+          o       0.26      0.14      0.18        50
+        cpr       0.37      0.27      0.31       188
+
+avg / total       0.38      0.38      0.37       637
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.25      0.28      0.27       142
+          w       0.43      0.59      0.49       230
+          b       0.58      0.26      0.36        27
+          o       0.19      0.12      0.15        50
+        cpr       0.39      0.24      0.30       188
+
+avg / total       0.36      0.37      0.35       637
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.17      0.01      0.01       142
+          w       0.36      0.93      0.52       230
+          b       0.00      0.00      0.00        27
+          o       0.00      0.00      0.00        50
+        cpr       0.47      0.10      0.16       188
+
+avg / total       0.31      0.37      0.24       637
+
+5187
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.80      0.81      0.80       181
+          w       0.88      0.91      0.89       291
+          b       0.79      0.78      0.78        40
+          o       0.63      0.56      0.59        61
+        cpr       0.85      0.83      0.84       166
+
+avg / total       0.83      0.83      0.83       739
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.33      0.42      0.37       181
+          w       0.49      0.46      0.47       291
+          b       0.23      0.17      0.20        40
+          o       0.13      0.10      0.11        61
+        cpr       0.29      0.27      0.28       166
+
+avg / total       0.36      0.36      0.36       739
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.31      0.66      0.42       181
+          w       0.45      0.41      0.43       291
+          b       0.22      0.15      0.18        40
+          o       0.25      0.10      0.14        61
+        cpr       0.33      0.08      0.13       166
+
+avg / total       0.36      0.36      0.32       739
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.30      0.58      0.40       181
+          w       0.46      0.45      0.46       291
+          b       0.69      0.23      0.34        40
+          o       0.13      0.03      0.05        61
+        cpr       0.30      0.16      0.21       166
+
+avg / total       0.37      0.37      0.35       739
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.31      0.56      0.40       181
+          w       0.45      0.46      0.46       291
+          b       0.58      0.17      0.27        40
+          o       0.29      0.10      0.15        61
+        cpr       0.36      0.19      0.25       166
+
+avg / total       0.39      0.38      0.36       739
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.31      0.50      0.38       181
+          w       0.42      0.44      0.43       291
+          b       0.58      0.17      0.27        40
+          o       0.29      0.13      0.18        61
+        cpr       0.32      0.18      0.23       166
+
+avg / total       0.37      0.36      0.34       739
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.90      0.05      0.09       181
+          w       0.40      1.00      0.57       291
+          b       0.00      0.00      0.00        40
+          o       0.00      0.00      0.00        61
+        cpr       0.00      0.00      0.00       166
+
+avg / total       0.38      0.40      0.25       739
+
+7073
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.83      0.81      0.82       135
+          w       0.81      0.83      0.82       196
+          b       0.56      0.54      0.55        46
+          o       0.67      0.76      0.71        54
+        cpr       0.84      0.81      0.82       139
+
+avg / total       0.79      0.79      0.79       570
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.31      0.46      0.37       135
+          w       0.49      0.42      0.45       196
+          b       0.30      0.22      0.25        46
+          o       0.24      0.17      0.20        54
+        cpr       0.39      0.37      0.38       139
+
+avg / total       0.38      0.38      0.38       570
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.27      0.64      0.38       135
+          w       0.40      0.35      0.37       196
+          b       0.30      0.17      0.22        46
+          o       0.42      0.20      0.27        54
+        cpr       0.45      0.09      0.15       139
+
+avg / total       0.38      0.33      0.30       570
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.28      0.59      0.38       135
+          w       0.42      0.39      0.40       196
+          b       0.29      0.11      0.16        46
+          o       0.38      0.09      0.15        54
+        cpr       0.43      0.23      0.30       139
+
+avg / total       0.37      0.35      0.33       570
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.30      0.57      0.39       135
+          w       0.42      0.42      0.42       196
+          b       0.32      0.13      0.18        46
+          o       0.50      0.17      0.25        54
+        cpr       0.41      0.24      0.31       139
+
+avg / total       0.39      0.36      0.35       570
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.32      0.61      0.42       135
+          w       0.41      0.44      0.43       196
+          b       0.54      0.15      0.24        46
+          o       0.44      0.13      0.20        54
+        cpr       0.45      0.24      0.31       139
+
+avg / total       0.41      0.38      0.36       570
+
+SVM
+             precision    recall  f1-score   support
+
+          t       1.00      0.03      0.06       135
+          w       0.35      1.00      0.51       196
+          b       0.00      0.00      0.00        46
+          o       0.00      0.00      0.00        54
+        cpr       0.00      0.00      0.00       139
+
+avg / total       0.36      0.35      0.19       570
+
+4501
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.84      0.85      0.84       185
+          w       0.91      0.90      0.90       290
+          b       0.47      0.45      0.46        49
+          o       0.68      0.65      0.66        68
+        cpr       0.84      0.86      0.85       199
+
+avg / total       0.83      0.83      0.83       791
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.40      0.52      0.45       185
+          w       0.46      0.47      0.46       290
+          b       0.14      0.12      0.13        49
+          o       0.26      0.16      0.20        68
+        cpr       0.44      0.37      0.40       199
+
+avg / total       0.40      0.41      0.40       791
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.37      0.71      0.48       185
+          w       0.45      0.50      0.47       290
+          b       0.12      0.06      0.08        49
+          o       0.26      0.07      0.11        68
+        cpr       0.58      0.19      0.28       199
+
+avg / total       0.42      0.41      0.37       791
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.35      0.62      0.45       185
+          w       0.44      0.50      0.47       290
+          b       0.25      0.06      0.10        49
+          o       0.36      0.06      0.10        68
+        cpr       0.50      0.28      0.36       199
+
+avg / total       0.42      0.41      0.38       791
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.37      0.64      0.47       185
+          w       0.43      0.49      0.46       290
+          b       0.27      0.06      0.10        49
+          o       0.44      0.10      0.17        68
+        cpr       0.54      0.33      0.41       199
+
+avg / total       0.44      0.42      0.40       791
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.38      0.62      0.47       185
+          w       0.43      0.52      0.47       290
+          b       0.29      0.04      0.07        49
+          o       0.41      0.10      0.16        68
+        cpr       0.51      0.28      0.36       199
+
+avg / total       0.43      0.42      0.39       791
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.96      0.12      0.22       185
+          w       0.38      1.00      0.55       290
+          b       0.00      0.00      0.00        49
+          o       0.00      0.00      0.00        68
+        cpr       0.00      0.00      0.00       199
+
+avg / total       0.36      0.39      0.25       791
+
+1571
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.85      0.87      0.86       223
+          w       0.87      0.87      0.87       306
+          b       0.71      0.58      0.64        55
+          o       0.66      0.66      0.66        58
+        cpr       0.81      0.82      0.82       205
+
+avg / total       0.82      0.83      0.82       847
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.39      0.50      0.44       223
+          w       0.46      0.46      0.46       306
+          b       0.11      0.09      0.10        55
+          o       0.12      0.09      0.10        58
+        cpr       0.58      0.46      0.52       205
+
+avg / total       0.42      0.42      0.42       847
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.35      0.74      0.47       223
+          w       0.40      0.33      0.36       306
+          b       0.23      0.11      0.15        55
+          o       0.15      0.03      0.06        58
+        cpr       0.76      0.27      0.40       205
+
+avg / total       0.44      0.39      0.37       847
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.37      0.70      0.48       223
+          w       0.47      0.44      0.46       306
+          b       0.19      0.07      0.11        55
+          o       0.00      0.00      0.00        58
+        cpr       0.69      0.37      0.48       205
+
+avg / total       0.45      0.44      0.42       847
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.34      0.64      0.45       223
+          w       0.42      0.39      0.40       306
+          b       0.11      0.04      0.05        55
+          o       0.00      0.00      0.00        58
+        cpr       0.66      0.37      0.47       205
+
+avg / total       0.41      0.40      0.38       847
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.35      0.62      0.45       223
+          w       0.43      0.44      0.43       306
+          b       0.14      0.05      0.08        55
+          o       0.10      0.02      0.03        58
+        cpr       0.66      0.36      0.47       205
+
+avg / total       0.42      0.41      0.39       847
+
+SVM
+             precision    recall  f1-score   support
+
+          t       1.00      0.08      0.15       223
+          w       0.37      1.00      0.54       306
+          b       0.00      0.00      0.00        55
+          o       0.00      0.00      0.00        58
+        cpr       0.00      0.00      0.00       205
+
+avg / total       0.40      0.38      0.23       847
+
+2334
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.83      0.80      0.82       164
+          w       0.88      0.90      0.89       289
+          b       0.55      0.50      0.53        42
+          o       0.71      0.71      0.71        52
+        cpr       0.78      0.80      0.79       195
+
+avg / total       0.81      0.82      0.81       742
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.38      0.45      0.41       164
+          w       0.46      0.51      0.48       289
+          b       0.22      0.17      0.19        42
+          o       0.23      0.15      0.18        52
+        cpr       0.32      0.26      0.29       195
+
+avg / total       0.37      0.39      0.38       742
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.32      0.60      0.41       164
+          w       0.44      0.55      0.49       289
+          b       0.20      0.07      0.11        42
+          o       0.12      0.06      0.08        52
+        cpr       0.45      0.07      0.12       195
+
+avg / total       0.38      0.37      0.33       742
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.29      0.49      0.37       164
+          w       0.45      0.55      0.50       289
+          b       0.44      0.10      0.16        42
+          o       0.57      0.08      0.14        52
+        cpr       0.35      0.17      0.23       195
+
+avg / total       0.40      0.38      0.35       742
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.31      0.42      0.36       164
+          w       0.45      0.65      0.53       289
+          b       0.33      0.07      0.12        42
+          o       0.27      0.06      0.10        52
+        cpr       0.36      0.16      0.22       195
+
+avg / total       0.38      0.40      0.36       742
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.30      0.41      0.35       164
+          w       0.46      0.68      0.55       289
+          b       0.30      0.07      0.12        42
+          o       0.27      0.06      0.10        52
+        cpr       0.38      0.13      0.20       195
+
+avg / total       0.38      0.40      0.35       742
+
+SVM
+             precision    recall  f1-score   support
+
+          t       1.00      0.02      0.05       164
+          w       0.39      1.00      0.56       289
+          b       0.00      0.00      0.00        42
+          o       0.00      0.00      0.00        52
+        cpr       0.00      0.00      0.00       195
+
+avg / total       0.37      0.39      0.23       742
+
+5557
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.80      0.79      0.80       216
+          w       0.92      0.91      0.92       317
+          b       0.62      0.63      0.63        68
+          o       0.60      0.59      0.60        91
+        cpr       0.89      0.91      0.90       309
+
+avg / total       0.84      0.84      0.84      1001
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.28      0.34      0.31       216
+          w       0.49      0.51      0.50       317
+          b       0.06      0.04      0.05        68
+          o       0.17      0.13      0.15        91
+        cpr       0.49      0.46      0.48       309
+
+avg / total       0.39      0.39      0.39      1001
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.29      0.56      0.38       216
+          w       0.45      0.53      0.49       317
+          b       0.09      0.06      0.07        68
+          o       0.11      0.05      0.07        91
+        cpr       0.66      0.27      0.38       309
+
+avg / total       0.43      0.38      0.37      1001
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.27      0.48      0.34       216
+          w       0.48      0.52      0.50       317
+          b       0.20      0.04      0.07        68
+          o       0.22      0.05      0.09        91
+        cpr       0.56      0.43      0.49       309
+
+avg / total       0.42      0.41      0.39      1001
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.27      0.44      0.33       216
+          w       0.49      0.54      0.51       317
+          b       0.28      0.07      0.12        68
+          o       0.12      0.03      0.05        91
+        cpr       0.55      0.44      0.49       309
+
+avg / total       0.41      0.41      0.40      1001
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.27      0.42      0.33       216
+          w       0.47      0.55      0.50       317
+          b       0.31      0.06      0.10        68
+          o       0.16      0.05      0.08        91
+        cpr       0.58      0.45      0.51       309
+
+avg / total       0.42      0.41      0.40      1001
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.94      0.08      0.15       216
+          w       0.65      0.27      0.39       317
+          b       0.00      0.00      0.00        68
+          o       0.00      0.00      0.00        91
+        cpr       0.35      0.96      0.51       309
+
+avg / total       0.52      0.40      0.31      1001
+
+2636
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.89      0.86      0.87       183
+          w       0.94      0.92      0.93       279
+          b       0.50      0.52      0.51        42
+          o       0.71      0.78      0.74        65
+        cpr       0.89      0.90      0.89       166
+
+avg / total       0.87      0.87      0.87       735
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.36      0.46      0.41       183
+          w       0.37      0.36      0.37       279
+          b       0.09      0.10      0.09        42
+          o       0.22      0.17      0.19        65
+        cpr       0.30      0.26      0.28       166
+
+avg / total       0.33      0.33      0.33       735
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.36      0.71      0.47       183
+          w       0.43      0.44      0.44       279
+          b       0.10      0.07      0.08        42
+          o       0.37      0.15      0.22        65
+        cpr       0.28      0.04      0.07       166
+
+avg / total       0.35      0.37      0.32       735
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.32      0.58      0.41       183
+          w       0.43      0.46      0.44       279
+          b       0.25      0.10      0.14        42
+          o       0.38      0.12      0.19        65
+        cpr       0.27      0.10      0.15       166
+
+avg / total       0.35      0.36      0.33       735
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.33      0.60      0.43       183
+          w       0.43      0.48      0.45       279
+          b       0.18      0.05      0.08        42
+          o       0.38      0.12      0.19        65
+        cpr       0.22      0.09      0.13       166
+
+avg / total       0.34      0.36      0.33       735
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.34      0.57      0.43       183
+          w       0.42      0.51      0.46       279
+          b       0.36      0.10      0.15        42
+          o       0.43      0.14      0.21        65
+        cpr       0.30      0.11      0.16       166
+
+avg / total       0.37      0.38      0.35       735
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.62      0.03      0.05       183
+          w       0.38      0.99      0.55       279
+          b       0.00      0.00      0.00        42
+          o       0.00      0.00      0.00        65
+        cpr       0.00      0.00      0.00       166
+
+avg / total       0.30      0.38      0.22       735
+
+2170
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.80      0.78      0.79       176
+          w       0.88      0.90      0.89       296
+          b       0.63      0.59      0.61        54
+          o       0.62      0.66      0.64        56
+        cpr       0.90      0.87      0.88       130
+
+avg / total       0.82      0.82      0.82       712
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.33      0.40      0.36       176
+          w       0.49      0.50      0.50       296
+          b       0.30      0.24      0.27        54
+          o       0.14      0.14      0.14        56
+        cpr       0.28      0.22      0.24       130
+
+avg / total       0.37      0.38      0.37       712
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.30      0.60      0.40       176
+          w       0.48      0.46      0.47       296
+          b       0.30      0.15      0.20        54
+          o       0.21      0.11      0.14        56
+        cpr       0.33      0.06      0.10       130
+
+avg / total       0.37      0.37      0.34       712
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.31      0.51      0.39       176
+          w       0.47      0.54      0.50       296
+          b       0.47      0.15      0.23        54
+          o       0.07      0.02      0.03        56
+        cpr       0.37      0.15      0.21       130
+
+avg / total       0.38      0.39      0.36       712
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.34      0.53      0.41       176
+          w       0.49      0.55      0.51       296
+          b       0.33      0.09      0.14        54
+          o       0.09      0.04      0.05        56
+        cpr       0.49      0.23      0.31       130
+
+avg / total       0.41      0.41      0.39       712
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.34      0.48      0.40       176
+          w       0.47      0.60      0.53       296
+          b       0.29      0.09      0.14        54
+          o       0.15      0.05      0.08        56
+        cpr       0.44      0.16      0.24       130
+
+avg / total       0.39      0.41      0.38       712
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.83      0.03      0.05       176
+          w       0.42      1.00      0.59       296
+          b       0.00      0.00      0.00        54
+          o       0.00      0.00      0.00        56
+        cpr       0.00      0.00      0.00       130
+
+avg / total       0.38      0.42      0.26       712
+
+4623
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.80      0.84      0.82       176
+          w       0.92      0.93      0.93       299
+          b       0.67      0.63      0.65        51
+          o       0.54      0.59      0.57        69
+        cpr       0.83      0.77      0.80       205
+
+avg / total       0.82      0.82      0.82       800
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.35      0.48      0.40       176
+          w       0.47      0.52      0.49       299
+          b       0.19      0.12      0.14        51
+          o       0.11      0.06      0.08        69
+        cpr       0.47      0.38      0.42       205
+
+avg / total       0.39      0.41      0.39       800
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.30      0.67      0.42       176
+          w       0.43      0.44      0.43       299
+          b       0.12      0.06      0.08        51
+          o       0.26      0.09      0.13        69
+        cpr       0.62      0.16      0.25       205
+
+avg / total       0.41      0.36      0.33       800
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.28      0.53      0.37       176
+          w       0.47      0.56      0.51       299
+          b       0.00      0.00      0.00        51
+          o       0.20      0.01      0.03        69
+        cpr       0.53      0.27      0.36       205
+
+avg / total       0.39      0.40      0.37       800
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.28      0.52      0.37       176
+          w       0.44      0.51      0.47       299
+          b       0.12      0.02      0.03        51
+          o       0.40      0.06      0.10        69
+        cpr       0.50      0.27      0.35       205
+
+avg / total       0.40      0.38      0.36       800
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.29      0.48      0.36       176
+          w       0.44      0.58      0.50       299
+          b       0.11      0.02      0.03        51
+          o       0.06      0.01      0.02        69
+        cpr       0.54      0.26      0.35       205
+
+avg / total       0.38      0.39      0.36       800
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.00      0.00      0.00       176
+          w       0.37      1.00      0.54       299
+          b       0.00      0.00      0.00        51
+          o       0.00      0.00      0.00        69
+        cpr       0.00      0.00      0.00       205
+
+avg / total       0.14      0.37      0.20       800
+
+Decision-Tree
+             precision    recall  f1-score   support
+
+          t       0.73      0.73      0.73      1781
+          w       0.82      0.82      0.82      2793
+          b       0.41      0.39      0.40       474
+          o       0.47      0.47      0.47       624
+        cpr       0.69      0.70      0.70      1902
+
+avg / total       0.71      0.71      0.71      7574
+
+kNN1
+             precision    recall  f1-score   support
+
+          t       0.34      0.41      0.37      1781
+          w       0.41      0.41      0.41      2793
+          b       0.11      0.10      0.10       474
+          o       0.15      0.13      0.14       624
+        cpr       0.37      0.32      0.34      1902
+
+avg / total       0.34      0.35      0.34      7574
+
+kNN2
+             precision    recall  f1-score   support
+
+          t       0.30      0.61      0.41      1781
+          w       0.40      0.41      0.41      2793
+          b       0.10      0.07      0.08       474
+          o       0.12      0.06      0.08       624
+        cpr       0.48      0.12      0.19      1902
+
+avg / total       0.35      0.33      0.30      7574
+
+kNN3
+             precision    recall  f1-score   support
+
+          t       0.30      0.55      0.39      1781
+          w       0.41      0.43      0.42      2793
+          b       0.19      0.07      0.10       474
+          o       0.19      0.04      0.07       624
+        cpr       0.43      0.24      0.30      1902
+
+avg / total       0.36      0.36      0.34      7574
+
+kNN4
+             precision    recall  f1-score   support
+
+          t       0.33      0.56      0.41      1781
+          w       0.42      0.45      0.43      2793
+          b       0.24      0.07      0.11       474
+          o       0.23      0.06      0.10       624
+        cpr       0.42      0.27      0.33      1902
+
+avg / total       0.37      0.37      0.35      7574
+
+kNN5
+             precision    recall  f1-score   support
+
+          t       0.32      0.52      0.39      1781
+          w       0.41      0.48      0.44      2793
+          b       0.19      0.06      0.10       474
+          o       0.20      0.06      0.09       624
+        cpr       0.43      0.24      0.31      1902
+
+avg / total       0.36      0.37      0.35      7574
+
+SVM
+             precision    recall  f1-score   support
+
+          t       0.73      0.11      0.19      1781
+          w       0.37      0.98      0.54      2793
+          b       0.00      0.00      0.00       474
+          o       0.00      0.00      0.00       624
+        cpr       0.44      0.00      0.01      1902
+
+avg / total       0.42      0.39      0.25      7574
+

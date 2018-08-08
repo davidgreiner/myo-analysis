@@ -14,7 +14,7 @@ participants = ['2253','5187','7073','4501','1571','2334','5557','2636','2170','
 window_sizes = ['2s','4s','6s']
 
 for window_size in window_sizes:
-	print(window_size, file=open("output.txt", "a"))
+	#print(window_size, file=open("output.txt", "a"))
 	try:
 		df_merged = pd.read_pickle("data_" + window_size + ".pkl")
 	except:
@@ -101,9 +101,9 @@ for window_size in window_sizes:
 	labels = df_merged.label.unique()
 
 	for participant in participants:
-		print(participant, file=open("output.txt", "a"))
+		#print(participant, file=open("output.txt", "a"))
 		df_merged_p = df_merged.loc[df_merged['participant'] == participant]
-		#ml.hmm_pp(df_merged_p, train_columns, labels)
+		ml.hmm_pp(df_merged_p, train_columns, labels)
 
 		score_dt = ml.ten_fold_decision_tree(df_merged_p, train_columns, labels)
 		#print(score_dt, file=open("output.txt", "a"))
@@ -148,7 +148,6 @@ for window_size in window_sizes:
 		plt.savefig("knn" + str(kNN) + "_" + window_size + ".pdf", dpi=150)
 
 		plt.clf()
-
 	score_svm = ml.ten_fold_svm(df_merged, train_columns, labels)
 	#print(score_svm, file=open("output.txt", "a"))
 	df_cm = pd.DataFrame(score_svm, index = labels, columns = labels)

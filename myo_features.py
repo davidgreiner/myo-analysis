@@ -53,7 +53,6 @@ def calculate_IMU_features(df_myo, window_size):
 	return df_myo
 
 def calculate_average_time(df_myo):
-	
 	groups = df_myo.groupby(df_myo['group'])
 	for group in groups:
 		first = group[1].head(1)

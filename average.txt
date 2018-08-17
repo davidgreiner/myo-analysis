@@ -1,0 +1,4158 @@
+2253
+ Timestamp
+2018-05-21 08:35:49.657050    questionaires
+Name: label, dtype: object
+TimedeltaIndex(['00:01:40.018378'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:37:29.697860    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.197340'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:37:43.916974    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:48.485194'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:39:32.417559    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:47.985175'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:40:20.424475    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:36.756922'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:41:57.196186    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:39.208045'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:42:36.420591    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.081262'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:02:17.663431    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.729457'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:02:45.401900    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.046042'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:03:18.459938    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:12.459466'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:03:30.932959    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.917527'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:04:27.864693    other
+Name: label, dtype: object
+TimedeltaIndex(['00:05:36.904194'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:10:04.789833    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.349123'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:10:16.159752    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.790698'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:31:32.467759    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:47.991408'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:32:20.474246    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.299012'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:33:17.788264    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:48.193037'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:35:05.996173    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.047395'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:35:17.050940    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.564449'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:35:58.630225    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.866890'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:36:33.512048    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.122563'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:36:38.642107    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.259800'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:36:45.917032    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.198961'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:37:41.138487    other
+Name: label, dtype: object
+TimedeltaIndex(['00:08:56.413771'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:46:37.565934    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.107248'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:46:48.680694    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.871873'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:47:24.575061    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.084554'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:47:53.674558    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.194930'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:47:59.876758    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.512480'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:48:05.404265    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:49.686604'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:48:55.105862    other
+Name: label, dtype: object
+TimedeltaIndex(['00:04:26.080015'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:53:21.200822    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.019729'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:53:31.235765    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.451712'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:54:12.702221    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:30.037037'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:54:42.746706    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.627502'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:54:47.381672    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.089913'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:54:53.494071    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:52.416551'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:55:45.917964    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:30.064923'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+5187
+ Timestamp
+2018-06-05 12:22:38.038307    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.525907'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:22:48.586521    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.113408'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:22:53.714180    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:13.321069'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:23:07.064474    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.884510'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:23:11.970511    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.914668'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:23:21.899947    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.076592'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:23:30.997490    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.233551'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:23:37.251649    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:48.011155'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:24:25.274719    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.869751'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:24:57.165706    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.047936'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:25:02.218994    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.898834'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:25:34.124213    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:22.255635'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:25:56.401272    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.192199'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:01.615120    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.693712'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:06.322786    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.955583'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:10.298672    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.208886'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:14.528325    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.711728'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:19.261088    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.750162'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:23.026253    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.054833'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:28.102775    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.815894'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:32.933614    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.049954'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:36.983996    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.869460'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:40.859802    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.751097'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:45.631501    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.269855'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:48.915148    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.338012'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:53.264812    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.618704'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:56.894803    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.517868'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:27:01.433616    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:51.173166'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:27:52.629395    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.866449'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:28:34.523999    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.149562'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:28:38.687891    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.975980'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:29:20.680506    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:20.895140'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:29:41.576376    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:01.354822'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:30:42.948633    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:16.170494'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:30:59.147876    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:00.777014'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:31:59.933945    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:00.264722'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:34:00.211894    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.950825'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:34:09.190909    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:30.415127'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:34:39.617128    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.698414'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:35:13.331892    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.743899'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:35:16.082640    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.153217'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:35:22.257001    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.433516'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:36:19.714318    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:06.407266'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:38:26.142558    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.880255'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:38:35.045623    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.384713'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:39:06.446849    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.799843'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:39:42.263721    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.167942'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:39:44.441457    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.594976'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:39:48.056934    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.462140'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:40:41.541907    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:48.608591'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:41:30.172489    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.892615'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:41:37.086192    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.549748'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:42:09.652117    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:30.263418'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:42:39.929932    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.031396'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:42:41.978013    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.871535'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:42:45.849835    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.602160'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:43:41.468086    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:18.480219'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:43:59.962921    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.184486'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:44:10.156131    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:36.605996'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:44:46.770940    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.286251'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:45:19.073723    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.004658'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:45:21.098131    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.573003'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:45:23.686821    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.571044'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:46:19.277008    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.359528'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+7073
+ Timestamp
+2018-06-06 11:05:27.490851    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.797453'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:05:33.303022    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.717734'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:05:38.035363    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.680949'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:05:48.722910    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.017690'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:05:53.755493    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.838312'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:01.600589    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.450315'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:08.073400    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.109867'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:15.198364    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.587699'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:20.801287    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.612424'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:25.420926    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.560252'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:29.995683    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.550554'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:35.561151    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:14.940005'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:07:50.516114    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.029228'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:08:21.545890    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.075652'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:08:26.636547    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.343213'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:08:51.986687    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:57.571065'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:10:49.572389    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.843480'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:10:55.430068    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.088130'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:10:59.524756    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.735786'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:06.274682    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.275650'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:10.564746    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.330379'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:16.910715    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.907392'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:20.832651    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.465432'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:27.313141    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.177035'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:31.505118    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.978701'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:37.497579    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.238306'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:41.750125    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.157985'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:47.922476    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.600618'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:12:42.538073    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.476831'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:13:12.028352    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.997843'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:13:16.048420    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.670603'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:13:45.734611    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.589810'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:14:17.331576    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.233519'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:15:45.570179    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.527396'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:16:00.112460    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.548123'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:16:54.675942    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:46.357364'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:19:41.056227    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.532394'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:19:47.610767    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.730413'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:20:17.356087    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:26.722598'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:20:44.086033    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.482347'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:20:46.568741    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.437621'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:20:52.021034    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:51.997926'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:21:44.041281    other
+Name: label, dtype: object
+TimedeltaIndex(['00:03:32.611778'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:25:16.660388    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.618300'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:25:22.293784    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:30.021876'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:25:52.330465    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:21.262869'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:26:13.607775    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.098021'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:26:16.713109    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.834886'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:26:22.548369    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.587948'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:27:16.158328    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:53.409078'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:30:09.581928    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.820317'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:30:15.417012    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.008044'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:30:42.432016    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.696847'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:31:08.134718    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:01.628297'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:31:09.777438    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.402328'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:31:14.180147    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:52.394841'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:32:06.590105    other
+Name: label, dtype: object
+TimedeltaIndex(['00:03:44.291344'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:35:50.883153    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.241343'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:35:59.136719    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:19.274933'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:36:18.426661    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:26.581044'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:36:45.009041    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.053590'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:36:47.077158    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.682364'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:36:50.774040    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.926585'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:37:44.707394    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.225075'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+4501
+ Timestamp
+2018-06-11 09:08:24.524219    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.763165'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:08:35.310112    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.219411'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:08:40.544418    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.999866'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:08:49.566880    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.062871'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:08:54.644311    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.497878'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:03.164721    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.582596'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:07.754040    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.843436'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:16.612182    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.244836'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:20.879531    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.622719'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:30.517426    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.972214'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:56.504484    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.221292'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:10:31.739693    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.082980'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:10:37.830277    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:44.145246'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:11:21.997559    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.895230'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:11:57.911009    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.189101'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:05.115143    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.077487'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:10.193053    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.607237'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:16.815213    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.048802'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:21.864997    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.562785'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:30.435390    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.852518'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:35.302898    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.910390'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:41.227989    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.054612'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:46.282969    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.118100'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:53.416184    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.357495'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:57.780186    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.765206'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:13:04.553082    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.042635'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:13:29.610671    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:38.557420'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:14:08.175371    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.955590'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:14:20.146062    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:37.373713'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:14:57.541446    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.893260'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:15:25.448095    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.488810'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:16:22.951097    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.980742'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:16:27.946193    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:59.145105'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:17:27.106289    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:14.880663'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:18:42.001932    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.797506'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:18:50.806691    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:40.988777'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:19:31.809362    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:39.623418'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:20:11.439965    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.729631'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:20:14.177213    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.624893'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:20:19.809531    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.248327'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:21:17.072730    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.307234'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:21:44.395019    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.940930'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:21:53.342854    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.517454'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:22:35.875429    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.837829'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:23:10.713718    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.172104'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:23:13.886214    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.722382'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:23:19.615464    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.688231'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:24:15.310374    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.165909'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:24:42.490831    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.152343'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:24:50.643607    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:38.475395'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:25:29.133363    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.987689'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:26:04.128537    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:01.672482'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:26:05.815967    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.111001'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:26:09.941052    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.428787'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:27:05.392902    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:49.646345'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:27:55.053890    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.220941'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:28:03.289289    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:36.975464'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:28:40.279069    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.843864'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:29:13.129271    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.607284'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:29:16.736924    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.820221'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:29:22.571713    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.844134'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:30:16.429490    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.772958'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+1571
+ Timestamp
+2018-06-08 11:55:20.748160    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.014663'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:55:29.763412    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.185121'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:55:33.962523    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.562795'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:55:41.525624    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.903404'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:55:45.438336    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.182017'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:55:53.635757    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.446840'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:55:58.098124    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.415693'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:56:07.540308    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.908343'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:56:11.462061    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.965925'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:56:19.443459    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:32.158792'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:57:51.611594    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.550668'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:58:33.175781    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.685522'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:58:38.871371    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.926361'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 11:59:12.860919    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:08.781681'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:01:21.643699    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.535819'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:01:29.185333    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.488879'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:01:33.694271    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.359725'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:01:40.076831    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.486214'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:01:43.579715    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.153995'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:01:51.740618    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.772226'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:01:55.534180    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.858079'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:02:01.392952    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.132273'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:02:05.546878    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.171422'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:02:11.735096    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.811404'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:02:15.567583    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.092156'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:02:20.660604    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.485471'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:02:46.167090    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:47.122054'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:03:33.289937    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.016906'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:03:38.321711    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:49.697448'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:04:28.031980    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.688276'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:04:53.742343    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.258624'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:05:51.028411    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.051816'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:05:58.093130    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:59.221018'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:06:57.314835    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:14.610397'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:09:11.946024    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.309616'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:09:20.264049    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:39.226379'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:09:59.511729    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:37.010879'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:10:36.531095    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.647774'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:10:40.198953    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.638788'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:10:46.850061    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:58.636926'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:11:45.509150    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:55.726413'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:13:41.258428    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.894995'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:13:49.163087    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:40.724671'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:14:29.901508    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:39.511842'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:15:09.427544    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.349884'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:15:11.797702    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.520466'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:15:20.339934    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:59.678986'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:16:20.040385    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:14.673616'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:18:34.733103    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.180320'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:18:41.940761    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.342139'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:19:23.303352    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.930815'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:20:06.247321    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:01.748634'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:20:08.002602    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.875302'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:20:13.898452    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:59.994403'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:21:13.913846    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:13.717008'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:22:27.631454    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.840591'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:22:37.487577    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:40.528525'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:23:18.016615    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:43.161610'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:24:01.194819    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.198190'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:24:30.406327    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.744896'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:24:37.163229    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:01.072845'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-08 12:25:38.252529    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.376856'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+2334
+ Timestamp
+2018-06-13 15:10:01.277166    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.117512'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:08.401614    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.201708'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:14.612483    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.383280'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:22.014682    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.610455'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:27.647324    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.480187'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:35.149371    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.728086'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:40.886957    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.573537'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:48.461459    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.415686'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:53.897267    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.376527'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:59.289936    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.935926'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:11:56.237172    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:24.694147'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:12:20.942729    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.314715'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:12:32.861208    w
+Name: label, dtype: object
+TimedeltaIndex(['00:01:11.334076'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:13:44.206547    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.920390'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:13:50.148667    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.332860'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:13:55.503244    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.177450'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:00.691672    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.178293'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:05.890646    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.720286'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:12.627852    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.149237'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:17.786538    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.170873'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:22.975728    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.956669'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:27.948216    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.416775'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:33.376852    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.816130'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:59.208493    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.292826'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:15:32.517493    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.822976'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:15:39.356090    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.095584'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:16:14.472248    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:20.585340'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:16:35.066637    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:59.198844'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:17:34.279349    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.499478'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:17:39.791132    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.192295'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:18:35.984290    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:29.235375'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:20:05.220147    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.242069'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:20:12.477264    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.923727'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:20:45.411154    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.615045'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:21:15.042398    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.970272'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:21:18.025903    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.955167'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:21:23.989914    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.850645'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:22:20.854653    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:44.201326'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:23:05.075259    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.717787'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:23:12.815448    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.166598'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:23:46.003337    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.941817'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:24:15.961462    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.893623'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:24:18.868025    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.734645'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:24:23.622877    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.188155'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:25:18.821999    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:45.787898'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:27:04.610408    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.733002'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:27:12.351322    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.688837'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:27:47.063542    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.465325'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:28:19.544332    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.888463'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:28:22.453701    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.864513'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:28:31.333087    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.309904'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:29:24.659517    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.763136'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:30:18.450696    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.387571'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:30:25.860576    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.244816'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:30:58.125298    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.602832'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:31:30.749598    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.829824'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:31:33.600203    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.150798'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:31:37.770643    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.717381'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:32:32.493861    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.068514'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+5557
+ Timestamp
+2018-06-07 09:56:10.529891    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:17.239460'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:56:27.769938    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.740836'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:56:35.535935    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.373811'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:56:49.910901    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.942164'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:56:57.865465    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:16.470210'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:57:14.350947    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:50.454727'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:58:04.826584    w
+Name: label, dtype: object
+TimedeltaIndex(['00:01:04.771888'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:59:09.619774    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.692346'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:59:21.326697    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.212013'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:00:18.560150    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.243644'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:00:50.824971    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.174246'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:01:05.006466    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.032287'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:01:13.046631    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:15.055013'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:01:28.113202    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.989100'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:01:36.102916    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.181253'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:01:50.299437    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:36.862584'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:02:27.176937    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.779459'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:03:09.972738    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.341672'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:03:18.335827    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:45.579866'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:04:03.935578    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:38.221479'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:04:42.179119    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:03.644810'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:05:45.844998    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.661072'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:05:53.525954    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:03.128049'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:06:56.654935    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:50.753016'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:08:47.422533    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.564018'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:09:02.001548    w
+Name: label, dtype: object
+TimedeltaIndex(['00:01:10.221409'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:10:12.232256    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:45.195243'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:10:57.427975    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.655456'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:11:03.104849    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.666672'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:11:12.786081    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:02.889038'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:12:15.697788    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.995042'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:12:51.712419    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.355790'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:13:06.070389    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.372475'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:14:03.459511    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:38.727112'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:14:42.203008    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.609543'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:14:45.832446    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.284657'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:14:56.132301    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:00.711788'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:15:56.858461    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:26.233480'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:16:23.108630    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:13.960161'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:16:37.088748    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:51.331855'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:17:28.420996    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:40.970259'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:18:09.414699    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.166519'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:18:14.603635    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.410796'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:18:24.022131    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:00.564301'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:19:24.609016    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:24.586487'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:19:49.208193    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:15.708397'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:20:04.937779    w
+Name: label, dtype: object
+TimedeltaIndex(['00:01:00.853832'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:21:05.800096    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:39.864352'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:21:45.675358    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.128093'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:21:52.815594    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.773889'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:22:02.590170    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:00.435878'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:23:03.272142    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.414468'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+2636
+ Timestamp
+2018-06-12 12:02:18.026698    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.962865'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:29.003678    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.189330'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:32.198959    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.943059'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:40.156289    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.493079'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:44.650026    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.346324'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:53.011538    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.372845'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:57.398974    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.365857'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:03:04.786151    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.965311'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:03:09.751832    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.682881'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:03:16.448854    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:22.245135'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:03:38.724169    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.180497'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:04:11.919577    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.392015'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:04:14.319318    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.472597'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:04:47.807071    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.430293'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:02.251775    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.407739'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:10.674486    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.257643'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:15.932657    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.364592'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:23.312213    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.654871'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:28.982387    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.878404'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:35.874840    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.580067'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:41.469632    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.482621'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:46.967546    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.242220'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:52.217040    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.791686'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:58.022806    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:22.499693'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:06:20.537222    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:37.185851'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:06:57.737242    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.973298'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:07:02.724941    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.010631'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:07:37.742526    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.218404'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:08:04.975223    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.475234'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:09:01.465547    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.567627'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:09:06.055355    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.252897'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:10:01.330289    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:06.983440'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:11:08.328201    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.191055'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:11:16.525920    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.655134'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:11:49.195649    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.733095'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:12:23.936161    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.829736'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:12:26.771110    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.635005'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:12:31.421319    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.060621'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:13:25.496489    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.847876'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:14:08.359404    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.910079'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:14:17.291492    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.098217'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:14:50.404313    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.903306'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:15:23.314929    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:01.807479'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:15:25.129159    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.268321'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:15:29.405177    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.359766'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:16:23.779565    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:04.567695'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:17:28.362395    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:12.458693'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:17:40.835035    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:30.452584'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:18:11.288975    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:37.744519'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:18:49.047389    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.431058'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:18:51.485136    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.192508'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:18:55.692752    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.851070'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:19:49.544300    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:46.439838'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:20:35.990655    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.410550'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:20:46.408168    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:37.823372'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:21:24.239394    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:37.184412'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:22:01.438393    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.228323'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:22:03.673395    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.401386'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:22:09.075250    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.878852'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:23:02.968642    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.728175'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+2170
+ Timestamp
+2018-06-13 14:05:16.313918    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.287506'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:05:27.615563    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.391309'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:05:35.027638    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.813122'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:05:42.855928    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.209971'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:05:50.086649    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.710314'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:06:00.811910    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.181214'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:06:07.008829    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.350787'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:06:16.374825    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:26.190048'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:06:42.565345    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.485844'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:07:08.072042    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.416589'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:07:13.501629    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:26.793084'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:07:40.322558    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.839659'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:08:23.184683    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.105723'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:08:32.291509    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.213393'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:08:39.527264    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.329631'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:08:47.866865    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.038390'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:08:53.935611    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.033132'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:01.989589    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.216863'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:09.227114    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.801814'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:17.049871    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.814375'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:22.884791    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.762156'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:30.661807    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.809761'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:56.491550    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:39.626804'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:10:36.137641    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.579018'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:10:42.728842    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.610062'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:11:24.347928    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.823663'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:11:52.179762    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:04.929757'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:12:57.130643    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.779341'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:13:06.917265    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:59.318491'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:14:06.250478    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:08.328134'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:15:14.590639    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.278728'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:15:20.870140    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.470066'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:15:46.353465    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.123108'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:16:15.490547    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.577005'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:16:20.079537    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.422855'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:16:28.511083    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.265145'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:17:24.798266    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:18.789563'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:17:43.599585    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.907798'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:17:51.528368    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.812383'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:18:19.361469    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.117909'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:18:50.485460    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.588318'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:18:53.089117    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.761138'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:18:58.863691    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.792368'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:19:55.676887    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:28.636814'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:20:24.326361    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.013106'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:20:31.349558    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:23.204313'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:20:54.566323    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.758068'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:21:29.345231    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.004462'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:21:31.370179    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.626235'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:21:36.005563    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.840281'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:22:30.874510    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:13.224823'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:23:44.121149    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.394596'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:23:51.537862    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.028997'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:24:16.587790    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:28.769050'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:24:45.366056    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.444528'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:24:47.825864    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.098688'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:24:53.945731    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:52.741792'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:25:46.699868    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.573177'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+2253
+ Timestamp
+2018-05-21 08:35:49.657050    questionaires
+Name: label, dtype: object
+TimedeltaIndex(['00:01:40.018378'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:37:29.697860    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.197340'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:37:43.916974    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:48.485194'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:39:32.417559    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:47.985175'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:40:20.424475    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:36.756922'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:41:57.196186    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:39.208045'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 08:42:36.420591    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.081262'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:02:17.663431    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.729457'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:02:45.401900    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.046042'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:03:18.459938    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:12.459466'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:03:30.932959    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.917527'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:04:27.864693    other
+Name: label, dtype: object
+TimedeltaIndex(['00:05:36.904194'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:10:04.789833    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.349123'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-21 09:10:16.159752    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.790698'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:31:32.467759    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:47.991408'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:32:20.474246    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.299012'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:33:17.788264    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:48.193037'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:35:05.996173    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.047395'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:35:17.050940    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.564449'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:35:58.630225    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.866890'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:36:33.512048    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.122563'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:36:38.642107    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.259800'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:36:45.917032    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.198961'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:37:41.138487    other
+Name: label, dtype: object
+TimedeltaIndex(['00:08:56.413771'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:46:37.565934    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.107248'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:46:48.680694    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.871873'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:47:24.575061    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.084554'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:47:53.674558    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.194930'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:47:59.876758    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.512480'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:48:05.404265    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:49.686604'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:48:55.105862    other
+Name: label, dtype: object
+TimedeltaIndex(['00:04:26.080015'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:53:21.200822    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.019729'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:53:31.235765    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.451712'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:54:12.702221    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:30.037037'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:54:42.746706    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.627502'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:54:47.381672    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.089913'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:54:53.494071    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:52.416551'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-05-22 08:55:45.917964    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:30.064923'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+5187
+ Timestamp
+2018-06-05 12:22:38.038307    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.525907'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:22:48.586521    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.113408'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:22:53.714180    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:13.321069'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:23:07.064474    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.884510'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:23:11.970511    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.914668'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:23:21.899947    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.076592'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:23:30.997490    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.233551'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:23:37.251649    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:48.011155'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:24:25.274719    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.869751'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:24:57.165706    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.047936'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:25:02.218994    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.898834'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:25:34.124213    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:22.255635'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:25:56.401272    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.192199'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:01.615120    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.693712'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:06.322786    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.955583'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:10.298672    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.208886'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:14.528325    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.711728'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:19.261088    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.750162'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:23.026253    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.054833'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:28.102775    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.815894'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:32.933614    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.049954'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:36.983996    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.869460'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:40.859802    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.751097'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:45.631501    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.269855'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:48.915148    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.338012'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:53.264812    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.618704'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:26:56.894803    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.517868'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:27:01.433616    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:51.173166'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:27:52.629395    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.866449'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:28:34.523999    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.149562'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:28:38.687891    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.975980'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:29:20.680506    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:20.895140'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:29:41.576376    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:01.354822'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:30:42.948633    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:16.170494'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:30:59.147876    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:00.777014'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:31:59.933945    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:00.264722'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:34:00.211894    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.950825'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:34:09.190909    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:30.415127'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:34:39.617128    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.698414'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:35:13.331892    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.743899'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:35:16.082640    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.153217'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:35:22.257001    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.433516'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:36:19.714318    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:06.407266'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:38:26.142558    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.880255'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:38:35.045623    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.384713'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:39:06.446849    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.799843'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:39:42.263721    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.167942'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:39:44.441457    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.594976'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:39:48.056934    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.462140'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:40:41.541907    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:48.608591'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:41:30.172489    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.892615'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:41:37.086192    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.549748'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:42:09.652117    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:30.263418'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:42:39.929932    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.031396'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:42:41.978013    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.871535'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:42:45.849835    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.602160'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:43:41.468086    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:18.480219'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:43:59.962921    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.184486'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:44:10.156131    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:36.605996'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:44:46.770940    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.286251'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:45:19.073723    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.004658'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:45:21.098131    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.573003'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:45:23.686821    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.571044'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-05 12:46:19.277008    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.359528'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+7073
+ Timestamp
+2018-06-06 11:05:27.490851    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.797453'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:05:33.303022    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.717734'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:05:38.035363    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.680949'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:05:48.722910    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.017690'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:05:53.755493    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.838312'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:01.600589    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.450315'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:08.073400    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.109867'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:15.198364    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.587699'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:20.801287    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.612424'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:25.420926    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.560252'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:29.995683    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.550554'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:06:35.561151    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:14.940005'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:07:50.516114    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.029228'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:08:21.545890    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.075652'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:08:26.636547    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.343213'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:08:51.986687    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:57.571065'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:10:49.572389    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.843480'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:10:55.430068    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.088130'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:10:59.524756    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.735786'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:06.274682    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.275650'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:10.564746    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.330379'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:16.910715    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.907392'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:20.832651    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.465432'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:27.313141    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.177035'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:31.505118    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.978701'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:37.497579    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.238306'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:41.750125    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.157985'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:11:47.922476    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.600618'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:12:42.538073    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.476831'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:13:12.028352    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.997843'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:13:16.048420    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.670603'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:13:45.734611    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.589810'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:14:17.331576    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.233519'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:15:45.570179    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.527396'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:16:00.112460    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.548123'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:16:54.675942    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:46.357364'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:19:41.056227    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.532394'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:19:47.610767    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.730413'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:20:17.356087    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:26.722598'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:20:44.086033    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.482347'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:20:46.568741    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.437621'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:20:52.021034    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:51.997926'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:21:44.041281    other
+Name: label, dtype: object
+TimedeltaIndex(['00:03:32.611778'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:25:16.660388    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.618300'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:25:22.293784    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:30.021876'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:25:52.330465    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:21.262869'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:26:13.607775    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.098021'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:26:16.713109    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.834886'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:26:22.548369    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.587948'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:27:16.158328    other
+Name: label, dtype: object
+TimedeltaIndex(['00:02:53.409078'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:30:09.581928    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.820317'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:30:15.417012    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.008044'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:30:42.432016    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.696847'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:31:08.134718    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:01.628297'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:31:09.777438    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.402328'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:31:14.180147    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:52.394841'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:32:06.590105    other
+Name: label, dtype: object
+TimedeltaIndex(['00:03:44.291344'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:35:50.883153    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.241343'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:35:59.136719    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:19.274933'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:36:18.426661    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:26.581044'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:36:45.009041    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.053590'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:36:47.077158    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.682364'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:36:50.774040    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.926585'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-06 11:37:44.707394    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.225075'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+4501
+ Timestamp
+2018-06-11 09:08:24.524219    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.763165'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:08:35.310112    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.219411'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:08:40.544418    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.999866'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:08:49.566880    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.062871'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:08:54.644311    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.497878'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:03.164721    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.582596'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:07.754040    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.843436'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:16.612182    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.244836'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:20.879531    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.622719'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:30.517426    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.972214'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:09:56.504484    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.221292'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:10:31.739693    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.082980'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:10:37.830277    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:44.145246'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:11:21.997559    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.895230'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:11:57.911009    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.189101'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:05.115143    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.077487'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:10.193053    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.607237'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:16.815213    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.048802'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:21.864997    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.562785'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:30.435390    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.852518'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:35.302898    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.910390'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:41.227989    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.054612'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:46.282969    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.118100'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:53.416184    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.357495'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:12:57.780186    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.765206'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:13:04.553082    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.042635'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:13:29.610671    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:38.557420'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:14:08.175371    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.955590'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:14:20.146062    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:37.373713'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:14:57.541446    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.893260'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:15:25.448095    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.488810'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:16:22.951097    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.980742'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:16:27.946193    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:59.145105'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:17:27.106289    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:14.880663'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:18:42.001932    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.797506'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:18:50.806691    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:40.988777'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:19:31.809362    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:39.623418'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:20:11.439965    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.729631'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:20:14.177213    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.624893'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:20:19.809531    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.248327'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:21:17.072730    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.307234'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:21:44.395019    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.940930'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:21:53.342854    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.517454'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:22:35.875429    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.837829'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:23:10.713718    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.172104'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:23:13.886214    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.722382'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:23:19.615464    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.688231'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:24:15.310374    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.165909'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:24:42.490831    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.152343'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:24:50.643607    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:38.475395'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:25:29.133363    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.987689'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:26:04.128537    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:01.672482'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:26:05.815967    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.111001'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:26:09.941052    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.428787'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:27:05.392902    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:49.646345'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:27:55.053890    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.220941'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:28:03.289289    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:36.975464'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:28:40.279069    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.843864'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:29:13.129271    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.607284'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:29:16.736924    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.820221'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:29:22.571713    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.844134'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 09:30:16.429490    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.772958'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+2334
+ Timestamp
+2018-06-13 15:10:01.277166    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.117512'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:08.401614    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.201708'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:14.612483    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.383280'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:22.014682    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.610455'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:27.647324    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.480187'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:35.149371    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.728086'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:40.886957    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.573537'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:48.461459    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.415686'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:53.897267    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.376527'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:10:59.289936    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.935926'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:11:56.237172    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:24.694147'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:12:20.942729    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.314715'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:12:32.861208    w
+Name: label, dtype: object
+TimedeltaIndex(['00:01:11.334076'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:13:44.206547    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.920390'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:13:50.148667    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.332860'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:13:55.503244    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.177450'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:00.691672    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.178293'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:05.890646    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.720286'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:12.627852    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.149237'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:17.786538    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.170873'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:22.975728    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.956669'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:27.948216    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.416775'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:33.376852    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.816130'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:14:59.208493    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.292826'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:15:32.517493    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.822976'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:15:39.356090    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.095584'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:16:14.472248    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:20.585340'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:16:35.066637    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:59.198844'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:17:34.279349    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.499478'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:17:39.791132    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.192295'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:18:35.984290    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:29.235375'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:20:05.220147    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.242069'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:20:12.477264    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.923727'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:20:45.411154    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.615045'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:21:15.042398    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.970272'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:21:18.025903    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.955167'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:21:23.989914    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.850645'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:22:20.854653    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:44.201326'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:23:05.075259    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.717787'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:23:12.815448    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.166598'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:23:46.003337    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.941817'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:24:15.961462    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.893623'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:24:18.868025    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.734645'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:24:23.622877    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.188155'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:25:18.821999    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:45.787898'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:27:04.610408    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.733002'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:27:12.351322    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.688837'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:27:47.063542    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.465325'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:28:19.544332    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.888463'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:28:22.453701    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.864513'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:28:31.333087    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.309904'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:29:24.659517    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.763136'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:30:18.450696    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.387571'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:30:25.860576    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.244816'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:30:58.125298    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.602832'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:31:30.749598    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.829824'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:31:33.600203    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.150798'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:31:37.770643    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.717381'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 15:32:32.493861    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.068514'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+5557
+ Timestamp
+2018-06-07 09:56:10.529891    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:17.239460'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:56:27.769938    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.740836'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:56:35.535935    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.373811'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:56:49.910901    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.942164'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:56:57.865465    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:16.470210'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:57:14.350947    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:50.454727'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:58:04.826584    w
+Name: label, dtype: object
+TimedeltaIndex(['00:01:04.771888'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:59:09.619774    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.692346'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 09:59:21.326697    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.212013'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:00:18.560150    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.243644'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:00:50.824971    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.174246'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:01:05.006466    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.032287'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:01:13.046631    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:15.055013'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:01:28.113202    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.989100'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:01:36.102916    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.181253'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:01:50.299437    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:36.862584'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:02:27.176937    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.779459'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:03:09.972738    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.341672'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:03:18.335827    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:45.579866'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:04:03.935578    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:38.221479'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:04:42.179119    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:03.644810'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:05:45.844998    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.661072'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:05:53.525954    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:03.128049'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:06:56.654935    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:50.753016'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:08:47.422533    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.564018'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:09:02.001548    w
+Name: label, dtype: object
+TimedeltaIndex(['00:01:10.221409'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:10:12.232256    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:45.195243'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:10:57.427975    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.655456'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:11:03.104849    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.666672'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:11:12.786081    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:02.889038'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:12:15.697788    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.995042'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:12:51.712419    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.355790'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:13:06.070389    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.372475'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:14:03.459511    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:38.727112'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:14:42.203008    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.609543'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:14:45.832446    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.284657'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:14:56.132301    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:00.711788'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:15:56.858461    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:26.233480'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:16:23.108630    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:13.960161'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:16:37.088748    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:51.331855'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:17:28.420996    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:40.970259'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:18:09.414699    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.166519'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:18:14.603635    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.410796'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:18:24.022131    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:00.564301'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:19:24.609016    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:24.586487'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:19:49.208193    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:15.708397'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:20:04.937779    w
+Name: label, dtype: object
+TimedeltaIndex(['00:01:00.853832'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:21:05.800096    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:39.864352'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:21:45.675358    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.128093'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:21:52.815594    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.773889'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:22:02.590170    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:00.435878'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-07 10:23:03.272142    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.414468'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+2636
+ Timestamp
+2018-06-12 12:02:18.026698    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.962865'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:29.003678    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.189330'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:32.198959    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.943059'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:40.156289    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.493079'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:44.650026    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.346324'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:53.011538    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.372845'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:02:57.398974    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.365857'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:03:04.786151    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.965311'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:03:09.751832    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.682881'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:03:16.448854    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:22.245135'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:03:38.724169    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.180497'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:04:11.919577    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.392015'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:04:14.319318    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.472597'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:04:47.807071    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:14.430293'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:02.251775    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.407739'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:10.674486    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.257643'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:15.932657    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.364592'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:23.312213    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.654871'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:28.982387    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.878404'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:35.874840    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.580067'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:41.469632    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.482621'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:46.967546    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.242220'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:52.217040    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.791686'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:05:58.022806    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:22.499693'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:06:20.537222    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:37.185851'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:06:57.737242    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.973298'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:07:02.724941    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:35.010631'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:07:37.742526    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.218404'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:08:04.975223    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.475234'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:09:01.465547    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.567627'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:09:06.055355    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.252897'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:10:01.330289    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:06.983440'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:11:08.328201    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.191055'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:11:16.525920    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.655134'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:11:49.195649    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.733095'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:12:23.936161    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.829736'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:12:26.771110    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.635005'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:12:31.421319    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.060621'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:13:25.496489    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.847876'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:14:08.359404    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.910079'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:14:17.291492    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.098217'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:14:50.404313    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.903306'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:15:23.314929    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:01.807479'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:15:25.129159    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.268321'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:15:29.405177    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.359766'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:16:23.779565    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:04.567695'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:17:28.362395    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:12.458693'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:17:40.835035    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:30.452584'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:18:11.288975    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:37.744519'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:18:49.047389    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.431058'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:18:51.485136    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.192508'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:18:55.692752    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.851070'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:19:49.544300    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:46.439838'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:20:35.990655    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.410550'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:20:46.408168    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:37.823372'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:21:24.239394    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:37.184412'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:22:01.438393    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.228323'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:22:03.673395    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.401386'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:22:09.075250    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:53.878852'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-12 12:23:02.968642    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.728175'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+2170
+ Timestamp
+2018-06-13 14:05:16.313918    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.287506'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:05:27.615563    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.391309'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:05:35.027638    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.813122'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:05:42.855928    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.209971'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:05:50.086649    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.710314'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:06:00.811910    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.181214'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:06:07.008829    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.350787'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:06:16.374825    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:26.190048'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:06:42.565345    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.485844'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:07:08.072042    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.416589'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:07:13.501629    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:26.793084'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:07:40.322558    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.839659'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:08:23.184683    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.105723'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:08:32.291509    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.213393'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:08:39.527264    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.329631'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:08:47.866865    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.038390'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:08:53.935611    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.033132'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:01.989589    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.216863'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:09.227114    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.801814'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:17.049871    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.814375'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:22.884791    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.762156'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:30.661807    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.809761'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:09:56.491550    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:39.626804'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:10:36.137641    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.579018'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:10:42.728842    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:41.610062'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:11:24.347928    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.823663'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:11:52.179762    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:04.929757'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:12:57.130643    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:09.779341'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:13:06.917265    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:59.318491'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:14:06.250478    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:08.328134'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:15:14.590639    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.278728'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:15:20.870140    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.470066'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:15:46.353465    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.123108'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:16:15.490547    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.577005'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:16:20.079537    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:08.422855'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:16:28.511083    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.265145'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:17:24.798266    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:18.789563'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:17:43.599585    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.907798'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:17:51.528368    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:27.812383'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:18:19.361469    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:31.117909'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:18:50.485460    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.588318'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:18:53.089117    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.761138'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:18:58.863691    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:56.792368'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:19:55.676887    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:28.636814'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:20:24.326361    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.013106'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:20:31.349558    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:23.204313'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:20:54.566323    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.758068'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:21:29.345231    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.004462'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:21:31.370179    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.626235'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:21:36.005563    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.840281'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:22:30.874510    other
+Name: label, dtype: object
+TimedeltaIndex(['00:01:13.224823'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:23:44.121149    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.394596'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:23:51.537862    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.028997'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:24:16.587790    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:28.769050'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:24:45.366056    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.444528'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:24:47.825864    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.098688'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:24:53.945731    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:52.741792'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-13 14:25:46.699868    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.573177'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+4623
+ Timestamp
+2018-06-11 10:03:17.717791    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:10.831637'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:03:28.562893    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.860045'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:03:33.445276    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:12.076540'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:03:45.527156    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.178338'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:03:49.727864    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:13.147946'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:04:02.897897    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.937300'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:04:07.848625    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:12.173326'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:04:20.043016    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:25.236249'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:04:45.279707    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:42.903660'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:05:28.211047    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.487464'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:05:34.720425    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:44.977822'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:06:19.704314    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:17.775434'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:06:37.491809    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.240425'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:06:44.739754    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.356138'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:06:48.115906    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:07.659259'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:06:55.804134    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.081757'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:06:59.906382    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.711798'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:07:06.625553    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.604492'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:07:11.238647    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.492014'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:07:16.751828    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:04.754890'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:07:21.507244    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.005392'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:07:27.604848    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.366949'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:07:30.987631    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.313972'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:07:37.322878    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:16.021402'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:07:53.365747    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:33.893316'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:08:27.274507    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.606099'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:08:30.895196    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:29.062667'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:08:59.965851    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:20.087666'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:09:20.057720    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:54.663392'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:10:14.741710    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.729472'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:10:18.491793    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:55.020876'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:11:13.513295    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:47.588451'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:12:01.123022    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.191144'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:12:12.326657    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:47.289824'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:12:59.638559    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:32.745844'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:13:32.396207    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.314612'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:13:34.730351    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.334134'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:13:40.076866    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:57.280780'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:14:37.358487    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:21.291342'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:14:58.670772    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.467703'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:15:10.161302    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:45.121325'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:15:55.294475    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:39.107354'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:16:34.422745    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.602265'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:16:37.033603    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.406395'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:16:42.449342    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:58.753643'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:17:41.220288    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:15.420462'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:17:56.663866    t
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.510741'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:18:08.188162    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:45.038142'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:18:53.235755    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.161398'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:19:27.418518    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.147906'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:19:29.586893    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:06.496440'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:19:36.105162    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:01:00.733896'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:20:36.846919    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.731349'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:21:41.618944    w
+Name: label, dtype: object
+TimedeltaIndex(['00:00:11.929689'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:21:53.564739    b
+Name: label, dtype: object
+TimedeltaIndex(['00:00:34.089815'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:22:27.746635    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:03.342606'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:22:31.102334    o
+Name: label, dtype: object
+TimedeltaIndex(['00:00:05.235901'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:22:36.340192    cpr
+Name: label, dtype: object
+TimedeltaIndex(['00:00:59.699451'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)
+ Timestamp
+2018-06-11 10:23:36.055419    other
+Name: label, dtype: object
+TimedeltaIndex(['00:00:02.629871'], dtype='timedelta64[ns]', name=' Timestamp', freq=None)

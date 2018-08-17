@@ -9,9 +9,9 @@ import matplotlib.pyplot as plt
 
 train_columns = ['EMG_1_mean_left','EMG_2_mean_left','EMG_3_mean_left','EMG_4_mean_left','EMG_5_mean_left','EMG_6_mean_left','EMG_7_mean_left','EMG_8_mean_left','EMG_rms_left','EMG_sma_left','Acc_X_mean_left','Acc_Y_mean_left','Acc_Z_mean_left','Orientation_X_mean_left','Orientation_Y_mean_left','Orientation_Z_mean_left','Acc_X_std_left','Acc_Y_std_left','Acc_Z_std_left','Orientation_X_std_left','Orientation_Y_std_left','Orientation_Z_std_left','Acc_sma_left','Orientation_sma_left','EMG_1_mean_right','EMG_2_mean_right','EMG_3_mean_right','EMG_4_mean_right','EMG_5_mean_right','EMG_6_mean_right','EMG_7_mean_right','EMG_8_mean_right','EMG_rms_right','EMG_sma_right','Acc_X_mean_right','Acc_Y_mean_right','Acc_Z_mean_right','Orientation_X_mean_right','Orientation_Y_mean_right','Orientation_Z_mean_right','Acc_X_std_right','Acc_Y_std_right','Acc_Z_std_right','Orientation_X_std_right','Orientation_Y_std_right','Orientation_Z_std_right','Acc_sma_right','Orientation_sma_right']
 
-participants = ['2253','5187','7073','4501','1571','2334','5557','2636','2170','4623']
+participants = ['2253','5187','7073','4501','2334','5557','2636','2170','4623'] #['2253','5187','7073','4501','1571','2334','5557','2636','2170','4623']
 
-window_sizes = ['2s','4s','6s']
+window_sizes = ['6s'] #['2s','4s','6s']
 
 for window_size in window_sizes:
 	#print(window_size, file=open("output.txt", "a"))
@@ -63,8 +63,9 @@ for window_size in window_sizes:
 				df_l = mf.calculate_IMU_features(df_l, window_size)
 				df_r = mf.calculate_IMU_features(df_r, window_size)
 				
-				#if day == '3':
-				#	mf.calculate_average_time(df_l)
+				if day == '3':
+					print(participant, file=open("average.txt", "a"))
+					mf.calculate_average_time(df_l)
 				
 				df_l = df_l.iloc[::200, :]
 				df_r = df_r.iloc[::200, :]
@@ -99,11 +100,18 @@ for window_size in window_sizes:
 	np.set_printoptions(threshold=100)
 
 	labels = df_merged.label.unique()
-
+	'''
 	for participant in participants:
-		#print(participant, file=open("output.txt", "a"))
+		print(participant, file=open("output.txt", "a"))
 		df_merged_p = df_merged.loc[df_merged['participant'] == participant]
-		ml.hmm_pp(df_merged_p, train_columns, labels)
+		score_hmm = ml.hmm_pp(df_merged_p, train_columns, labels)
+		#print(score_hmm, file=open("output.txt", "a"))
+		df_cm = pd.DataFrame(score_hmm, index = labels, columns = labels)
+		plt.figure(figsize = (10,7))
+		sn.heatmap(df_cm, annot=True, fmt="d")
+		plt.savefig("hmm_" + window_size + "_" + str(participant) + ".pdf", dpi=150)
+		
+		plt.clf()
 
 		score_dt = ml.ten_fold_decision_tree(df_merged_p, train_columns, labels)
 		#print(score_dt, file=open("output.txt", "a"))
@@ -129,14 +137,23 @@ for window_size in window_sizes:
 		sn.heatmap(df_cm, annot=True, fmt="d")
 		plt.savefig("svm_" + window_size + "_" + str(participant) + ".pdf", dpi=150)
 
-	#ml.hmm(df_merged, train_columns, labels)
+		plt.clf()
+	'''
+	score_hmm = ml.hmm(df_merged, train_columns, labels)
+	#print(score_hmm, file=open("output.txt", "a"))
+	df_cm = pd.DataFrame(score_hmm, index = labels, columns = labels)
+	plt.figure(figsize = (10,7))
+	sn.heatmap(df_cm, annot=True, fmt="d")
+	plt.savefig("hmm_" + window_size + "_without.pdf", dpi=150)
 
+	plt.clf()
+	
 	score_dt = ml.ten_fold_decision_tree(df_merged, train_columns, labels)
 	#print(score_dt, file=open("output.txt", "a"))
 	df_cm = pd.DataFrame(score_dt, index = labels, columns = labels)
 	plt.figure(figsize = (10,7))
 	sn.heatmap(df_cm, annot=True, fmt="d")
-	plt.savefig("decision_tree.pdf", dpi=150)
+	plt.savefig("decision_tree_" + window_size + "_without.pdf", dpi=150)
 
 	plt.clf()
 
@@ -145,11 +162,14 @@ for window_size in window_sizes:
 		#print(score_knn, file=open("output.txt", "a"))
 		df_cm = pd.DataFrame(score_knn, index = labels, columns = labels)
 		sn.heatmap(df_cm, annot=True, fmt="d")
-		plt.savefig("knn" + str(kNN) + "_" + window_size + ".pdf", dpi=150)
+		plt.savefig("knn" + str(kNN) + "_" + window_size + "_without.pdf", dpi=150)
 
 		plt.clf()
+
 	score_svm = ml.ten_fold_svm(df_merged, train_columns, labels)
 	#print(score_svm, file=open("output.txt", "a"))
 	df_cm = pd.DataFrame(score_svm, index = labels, columns = labels)
 	sn.heatmap(df_cm, annot=True, fmt="d")
-	plt.savefig("svm_" + window_size + ".pdf", dpi=150)
+	plt.savefig("svm_" + window_size + "_without.pdf", dpi=150)
+
+	plt.clf()
